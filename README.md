@@ -29,3 +29,5 @@ Este repositório foi criado com o objetivo de documentar e compartilhar meu pro
 <h4>O curso de Linux foi muito bom, proporcionou um conhecimento valioso, antes do curso, eu não tinha nenhum conhecimento prévio sobre o sistema operacional Linux, mas estava entusiasmado em aprender mais sobre essa  plataforma.
 Durante o curso, fui apresentado aos fundamentos do Linux, desde a sua arquitetura até os comandos essenciais do terminal, aprendi a gerenciar arquivos, navegar entre diretórios, executar comandos e administrar usuários e permissões.
 </h4>
+<h4>Tive dificuldade quando o instrutor pediu para executar o VBox_GAs_7.0.8, não consegui fazer o download  , mas pesquisei na internet e encontrei uma forma de realizar esse update por meio do terminal , segue o link do site: https://www.vivaolinux.com.br/artigo/Instalando-Adicionais-para-Convidados-para-VirtualBox-no-Debian-Linux-Mint-e-Ubuntu
+</h4>
