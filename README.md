@@ -18,5 +18,4 @@ Este repositório foi criado com o objetivo de documentar e compartilhar meu pro
 <h4>• </h4>
 <h4>• </h4>
 <h4>O curso de Git e GitHub que realizei foi uma experiência incrível que me proporcionou um conhecimento significativo. Antes do curso, eu já possuía algum conhecimento prévio sobre Git e GitHub, mas estava longe de dominar todas as funcionalidades e recursos que foram apresentados durante as aulas.Fiquei impressionado com a profundidade e abrangência do curso, e posso dizer com segurança que aprendi muito mais do que eu esperava, acredito que esse conhecimento adquirido será extremamente valioso para o meu crescimento profissional como desenvolvedor de software.</h4>
-<h4>Em relação as dificuldades , demorei um pouco a mais para entender sobre branches, mas revisei os assuntos das aulas e pratiquei no terminal, depois de um tempo consegui sanar meu impedimento![image](https://github.com/gabrielgalva/Data-Analytics/assets/136500240/f523c7f3-f064-4f4f-b4e0-51a19845b46d)
-</h4>
+<h4>Em relação as dificuldades , demorei um pouco a mais para entender sobre branches, mas revisei os assuntos das aulas e pratiquei no terminal junto ao GitHub, depois de um tempo consegui sanar meu impedimento.</h4>
