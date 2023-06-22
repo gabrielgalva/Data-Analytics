@@ -1,5 +1,7 @@
 <h1>- Sprint 1:</h1>
-<h4>– Na sprint 1 fiz os cursos de Git/GitHub do básico ao avançado e Lixux para desenvolvedores, abaixo irei listar alguns tópicos aprendidos no curso e falar o que eu achei e minhas dificuldades. </h4>
+<h4>– Durante a primeira sprint, dediquei-me aos cursos abrangentes de Git/GitHub, desde os conceitos básicos até os avançados, bem como ao curso de Linux para desenvolvedores. A seguir, apresentarei uma lista dos tópicos que explorei durante esses cursos, além de compartilhar minhas impressões e dificuldades encontradas ao longo do aprendizado.
+
+ </h4>
 
 
 <h2>• Git/GitHub</h2>
