@@ -21,8 +21,6 @@ Em relação as dificuldades , demorei um pouco a mais para entender sobre branc
 <h4>• Nano e Vim.</h4>
 <h4>• Redes.</h4>
 <h4>• Gerenciamento de permissões.</h4>
-![image](https://github.com/gabrielgalva/Data-Analytics/assets/136500240/87f29986-c403-4bd9-a711-034a53814aaf)
-
 <h4>O curso de Linux foi muito bom, proporcionou um conhecimento valioso, antes do curso, eu não tinha nenhum conhecimento prévio sobre o sistema operacional Linux, mas estava entusiasmado em aprender mais sobre essa plataforma. Durante o curso, fui apresentado aos fundamentos do Linux, desde a sua arquitetura até os comandos essenciais do terminal, aprendi a gerenciar arquivos, navegar entre diretórios, executar comandos e administrar usuários e permissões.
   
 Tive dificuldade quando o instrutor pediu para executar o VBox_GAs_7.0.8, não consegui fazer o download , mas pesquisei na internet e encontrei uma forma de realizar esse update por meio do terminal , segue o link do site: https://www.vivaolinux.com.br/artigo/Instalando-Adicionais-para-Convidados-para-VirtualBox-no-Debian-Linux-Mint-e-Ubuntu
