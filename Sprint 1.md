@@ -78,9 +78,10 @@
 <h4>- Nesta seção, aprendi os conceitos fundamentais de permissão no Linux, compreendi como controlar o acesso a arquivos e diretórios, utilizando permissões numéricas e simbólicas. Também aprendi a alterar o proprietário e o grupo de um arquivo, além de receber dicas úteis, como copiar e colar no terminal e usar o histórico de comandos.</h4>
 
 <h3>- Seção 10:</h3>
-<h4>- Entendi melhor sobre o funcionamento da web e os principais conceitos relacionados a ela, entendi como a comunicação entre os computadores é estabelecida por meio do DNS, que traduz os nomes de domínio em endereços IP. Também compreendi o papel das portas na identificação dos diferentes serviços que estão sendo acessados, além disso, aprendi sobre os protocolos TCP e UDP, que são utilizados para a transferência de dados na internet.
-Familiarizei-me com comandos importantes, como o ping, que verifica a conectividade com um determinado host, e o netstat, que exibe informações sobre as conexões de rede ativas. Também explorei o comando ifconfig, que fornece detalhes sobre as interfaces de rede do sistema, e o nslookup, que permite realizar consultas de DNS. Por fim, aprendi sobre o tcpdump, uma ferramenta útil para capturar e analisar o tráfego de rede.
-Recebi uma dica sobre como verificar o IP da minha própria máquina, o que pode ser útil para fins de diagnóstico e configuração de rede. </h4>
+<h4>- Entendi melhor sobre o funcionamento da web e os principais conceitos relacionados a ela, entendi como a comunicação entre os computadores é estabelecida por meio do DNS, que traduz os nomes de domínio em endereços IP.</h4>
+ <h4>- Também compreendi o papel das portas na identificação dos diferentes serviços que estão sendo acessados, além disso, aprendi sobre os protocolos TCP e UDP, que são utilizados para a transferência de dados na internet.</h4>
+<h4>- Familiarizei-me com comandos importantes, como o ping, que verifica a conectividade com um determinado host, e o netstat, que exibe informações sobre as conexões de rede ativas. Também explorei o comando ifconfig, que fornece detalhes sobre as interfaces de rede do sistema, e o nslookup, que permite realizar consultas de DNS. Por fim, aprendi sobre o tcpdump, uma ferramenta útil para capturar e analisar o tráfego de rede.</h4>
+<h4>- Recebi uma dica sobre como verificar o IP da minha própria máquina, o que pode ser útil para fins de diagnóstico e configuração de rede. </h4>
 
 <h3>- Seção 11:</h3>
 <h4>- Entendi como  compactar arquivos utilizando o comando tar, descobri como compactar vários arquivos em um único arquivo e também como descompactar arquivos previamente compactados. Além disso, aprendi sobre a compactação em formato zip e como descompactar arquivos nesse formato. </h4>
