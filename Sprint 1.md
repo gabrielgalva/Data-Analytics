@@ -48,14 +48,43 @@
 <h4>Em relação as dificuldades , demorei um pouco a mais para entender sobre branches, mas revisei os assuntos das aulas e pratiquei no terminal junto ao GitHub, depois de um tempo consegui sanar meu impedimento.</h4>
 <br>
 <h2>• Linux</h2>
-<h4>• Ultilização de uma maquina virtual.</h4>
-<h4>• Conhecimentos teóricos sobre o linux.</h4>
-<h4>• Comandos básicos e avançados do terminal.</h4>
-<h4>• Gereciamento de diretório e arquivos.</h4>
-<h4>• Nano e Vim.</h4>
-<h4>• Redes.</h4>
-<h4>• Gerenciamento de permissões.</h4>
-<h4>O curso de Linux foi muito bom, proporcionou um conhecimento valioso, antes do curso, eu não tinha nenhum conhecimento prévio sobre o sistema operacional Linux, mas estava entusiasmado em aprender mais sobre essa plataforma. Durante o curso, fui apresentado aos fundamentos do Linux, desde a sua arquitetura até os comandos essenciais do terminal, aprendi a gerenciar arquivos, navegar entre diretórios, executar comandos e administrar usuários e permissões.
-  
-Tive dificuldade quando o instrutor pediu para executar o VBox_GAs_7.0.8, não consegui fazer o download , mas pesquisei na internet e encontrei uma forma de realizar esse update por meio do terminal , segue o link do site: https://www.vivaolinux.com.br/artigo/Instalando-Adicionais-para-Convidados-para-VirtualBox-no-Debian-Linux-Mint-e-Ubuntu
+<h3>- Seção 1:</h3>
+
+<h4>- Nesta seção inicial do curso, foi feita uma introdução ao conteúdo e objetivos. Aprendi a baixar e instalar o Linux/Ubuntu no computador ou em uma máquina virtual usando a Virtual Box ou a VM Ware. Em seguida, fiz ajustes nas configurações da VM. Por fim, explorei brevemente o sistema operacional Linux/Ubuntu.</h4>
+
+<h3>- Seção 2:</h3>
+<h4>- Nesta seção aprendi sobre as distribuições Linux são variações do sistema operacional Linux desenvolvidas por diferentes organizações e comunidades. O kernel do Linux é o núcleo central do sistema, responsável pelo gerenciamento de recursos de hardware e oferecendo uma interface para os programas. As vantagens de utilizar o Linux incluem sua estabilidade, segurança, disponibilidade de software gratuito e de código aberto, flexibilidade, baixo consumo de recursos e uma comunidade ativa de desenvolvedores.</h4>
+
+<h3>- Seção 3:</h3>
+<h4>- Aprendi sobre o uso do terminal no Linux. O shell é a interface de linha de comando utilizada para interagir com o sistema operacional, conheci a estrutura de diretórios do Linux, que segue uma hierarquia organizada em árvore. Os comandos básicos como "cd" para navegar entre diretórios e "ls" para listar arquivos e diretórios foram abordados, tanto em sua forma básica quanto em funcionalidades avançadas, aprendi sobre o comando "clear" para limpar a tela, "cat" para visualizar o conteúdo de arquivos, "touch" para criar arquivos vazios, e o comando "man" para obter informações detalhadas sobre outros comandos. Além disso, foi mencionada uma dica útil de pesquisa de comandos usando a combinação de teclas "Ctrl + R".</h4>
+
+<h3>- Seção 4:</h3>
+<h4>- Explorei diferentes comandos relacionados à manipulação de diretórios e arquivos no terminal do Linux. Aprendi a criar diretórios usando o comando "mkdir" e a remover arquivos e diretórios usando o comando "rm". O comando "rmdir" foi apresentado como uma opção específica para a remoção de diretórios vazios, para copiar diretórios e arquivos, aprendi a usar o comando "cp", tanto em sua forma básica quanto em funcionalidades avançadas. O comando "mv" foi abordado para mover diretórios e arquivos de um local para outro. Além disso, foi compartilhada uma dica útil sobre o comando "pwd", que permite verificar o diretório atual em que nos encontramos no sistema.</h4>
+
+
+<h3>- Seção 5:</h3>
+<h4>- Nesta seção, aprendi a atualizar os repositórios no sistema Linux. Descobri como atualizar os pacotes e aplicativos instalados usando comandos específicos. Também aprendi a instalar novos pacotes e aplicativos no sistema, além disso, aprendi como excluir pacotes e aplicativos indesejados. Foi muito útil conhecer o processo de atualização do próprio sistema Linux para garantir que eu esteja usando a versão mais recente, com todas as correções e melhorias, uma dica valiosa que aprendi foi utilizar o comando "apt" para gerenciar os pacotes e aplicativos de forma mais eficiente.
+
+<h3>- Seção 6:</h3>
+<h4>- Aprendi utilizar uma série de comandos úteis no terminal Linux, o comando "head" me permite visualizar as primeiras linhas de um arquivo, o que é especialmente útil para visualizar o conteúdo inicial de arquivos extensos, já o comando "tail" mostra as últimas linhas de um arquivo, permitindo que eu verifique os dados mais recentes. O comando "grep" é utilizado para buscar padrões específicos em um arquivo ou em um conjunto de arquivos, facilitando a localização de informações relevantes, o comando "find" me ajuda a localizar arquivos e diretórios com base em critérios como nome, tipo e data de modificação. Para uma pesquisa mais rápida, o comando "locate" é ideal, pois utiliza um banco de dados pré-existente para encontrar arquivos, duas dicas valiosas que aprendi foram como executar novamente o último comando digitado e como saber em qual diretório os comandos estão sendo executados, o que pode ser útil para evitar erros e facilitar a navegação no sistema.</h4>
+
+<h3>- Seção 7:</h3>
+<h4>- Explorei o editor de texto Nano e aprendi diversas funcionalidades para criar, editar, salvar e sair de arquivos. Com o Nano, pude criar novos arquivos e salvá-los facilmente, além disso, aprendi a editar arquivos existentes, copiar, colar e recortar conteúdo dentro do editor. A movimentação dentro do arquivo também foi abordada, permitindo navegar de forma eficiente pelo texto. tive a oportunidade de aprender sobre o editor de texto Vim, incluindo sua instalação e modos de operação, com o Vim, pude editar, salvar e fechar arquivos de forma eficaz. Aprendi também a deletar linhas, desfazer e refazer ações, além de realizar buscas e substituições no texto.</h4>
+
+<h3>- Seção 8:</h3>
+<h4>- Entendi sobre a administração de usuários no Linux e adquiri várias habilidades úteis, comecei aprendendo como adicionar novos usuários ao sistema, permitindo que eles acessem e utilizem a máquina. Também aprendi a deletar usuários quando necessário, além disso, descobri como alterar o nome de exibição de um usuário, o que é útil para personalização, também aprendi a mudar o nome do diretório base e o nome do usuário no terminal, permitindo uma maior flexibilidade na organização do sistema. Entendi o conceito de grupos no Linux e aprendi a criar e excluir grupos conforme necessário, também aprendi como mover um usuário para outro grupo, permitindo ajustes de permissões e acesso. Recebi dicas valiosas, como como se tornar um superusuário e como alterar a senha de um usuário. </h4>
+
+<h3>- Seção 9:</h3>
+<h4>- Nesta seção, aprendi os conceitos fundamentais de permissão no Linux, compreendi como controlar o acesso a arquivos e diretórios, utilizando permissões numéricas e simbólicas. Também aprendi a alterar o proprietário e o grupo de um arquivo, além de receber dicas úteis, como copiar e colar no terminal e usar o histórico de comandos.</h4>
+
+<h3>- Seção 10:</h3>
+<h4>- Nesta seção, eu aprendi sobre o funcionamento da web e os principais conceitos relacionados a ela, entendi como a comunicação entre os computadores é estabelecida por meio do DNS, que traduz os nomes de domínio em endereços IP. Também compreendi o papel das portas na identificação dos diferentes serviços que estão sendo acessados, além disso, aprendi sobre os protocolos TCP e UDP, que são utilizados para a transferência de dados na internet.
+Familiarizei-me com comandos importantes, como o ping, que verifica a conectividade com um determinado host, e o netstat, que exibe informações sobre as conexões de rede ativas. Também explorei o comando ifconfig, que fornece detalhes sobre as interfaces de rede do sistema, e o nslookup, que permite realizar consultas de DNS. Por fim, aprendi sobre o tcpdump, uma ferramenta útil para capturar e analisar o tráfego de rede.
+Recebi uma dica sobre como verificar o IP da minha própria máquina, o que pode ser útil para fins de diagnóstico e configuração de rede. </h4>
+
+<h3>- Seção 11:</h3>
+<h4>- Entendi como  compactar arquivos utilizando o comando tar, descobri como compactar vários arquivos em um único arquivo e também como descompactar arquivos previamente compactados. Além disso, aprendi sobre a compactação em formato zip e como descompactar arquivos nesse formato. </h4>
+
+<h3>Dificuldades:</h3>
+<h4>Tive dificuldade quando o instrutor pediu para executar o VBox_GAs_7.0.8, não consegui fazer o download , mas pesquisei na internet e encontrei uma forma de realizar esse update por meio do terminal , segue o link do site: https://www.vivaolinux.com.br/artigo/Instalando-Adicionais-para-Convidados-para-VirtualBox-no-Debian-Linux-Mint-e-Ubuntu
 </h4>
