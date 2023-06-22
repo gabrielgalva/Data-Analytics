@@ -33,6 +33,3 @@ Durante o curso, fui apresentado aos fundamentos do Linux, desde a sua arquitetu
 </h4>
 <h4>Tive dificuldade quando o instrutor pediu para executar o VBox_GAs_7.0.8, não consegui fazer o download  , mas pesquisei na internet e encontrei uma forma de realizar esse update por meio do terminal , segue o link do site: https://www.vivaolinux.com.br/artigo/Instalando-Adicionais-para-Convidados-para-VirtualBox-no-Debian-Linux-Mint-e-Ubuntu
 </h4>
-<h2>- Certificados da Sprint 1:</h2>
-<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/65827581-dbf2-42e1-98f6-fbcb2dc70d2e" width="300px"</img>
-<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/a4b223dc-db86-4f32-bb45-c38ac55c94f9" width="300px"</img>
