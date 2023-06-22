@@ -1,5 +1,5 @@
 <h1>- Sprint 1:</h1>
-<h4>– Na sprint 1 fiz os cursos de Git/GitHub do básico ao avançado e Lixux para desenvolvedores,abaixo irei listar os topicos aprendidos no curso e falar o que eu achei e minhas dificuldades. </h4>
+<h4>– Na sprint 1 fiz os cursos de Git/GitHub do básico ao avançado e Lixux para desenvolvedores,abaixo irei listar alguns topicos aprendidos no curso e falar o que eu achei e minhas dificuldades. </h4>
 
 
 <h2>• Git/GitHub</h2>
