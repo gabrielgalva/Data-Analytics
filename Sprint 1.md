@@ -79,12 +79,16 @@
 
 <h3>- Seção 10:</h3>
 <h4>- Entendi melhor sobre o funcionamento da web e os principais conceitos relacionados a ela, entendi como a comunicação entre os computadores é estabelecida por meio do DNS, que traduz os nomes de domínio em endereços IP.</h4>
+
  <h4>- Também compreendi o papel das portas na identificação dos diferentes serviços que estão sendo acessados, além disso, aprendi sobre os protocolos TCP e UDP, que são utilizados para a transferência de dados na internet.</h4>
-<h4>- Familiarizei-me com comandos importantes, como o ping, que verifica a conectividade com um determinado host, e o netstat, que exibe informações sobre as conexões de rede ativas. Também explorei o comando ifconfig, que fornece detalhes sobre as interfaces de rede do sistema, e o nslookup, que permite realizar consultas de DNS. Por fim, aprendi sobre o tcpdump, uma ferramenta útil para capturar e analisar o tráfego de rede.</h4>
-<h4>- Recebi uma dica sobre como verificar o IP da minha própria máquina, o que pode ser útil para fins de diagnóstico e configuração de rede. </h4>
+ 
+<h4>- Familiarizei-me com comandos importantes, como o ping, que verifica a conectividade com um determinado host, e o netstat, que exibe informações sobre as conexões de rede ativas. Também explorei o comando ifconfig, que fornece detalhes sobre as interfaces de rede do sistema, e o nslookup, que permite realizar consultas de DNS. Por fim, aprendi sobre o tcpdump, uma ferramenta útil para capturar e analisar o tráfego de rede, recebi uma dica sobre como verificar o IP da minha própria máquina, o que pode ser útil para fins de diagnóstico e configuração de rede. </h4>
 
 <h3>- Seção 11:</h3>
 <h4>- Entendi como  compactar arquivos utilizando o comando tar, descobri como compactar vários arquivos em um único arquivo e também como descompactar arquivos previamente compactados. Além disso, aprendi sobre a compactação em formato zip e como descompactar arquivos nesse formato. </h4>
+
+<h3>- Seção 12:</h3>
+<h4>No fim do curso configurei meu ambiente de desenvolvimento web, instalando o Apache como servidor web, o MySQL como sistema de gerenciamento de banco de dados e o PHP como linguagem de programação. Também fiz ajustes no Firewall, instalei o editor de texto Sublime e criei um usuário no MySQL, agora posso conectar o PHP ao banco de dados e exibir dados da minha aplicação em páginas HTML.</h4>
 
 <h3>- Dificuldades:</h3>
 <h4>- Tive dificuldade quando o instrutor pediu para executar o VBox_GAs_7.0.8, não consegui fazer o download , mas pesquisei na internet e encontrei uma forma de realizar esse update por meio do terminal , segue o link do site: https://www.vivaolinux.com.br/artigo/Instalando-Adicionais-para-Convidados-para-VirtualBox-no-Debian-Linux-Mint-e-Ubuntu
