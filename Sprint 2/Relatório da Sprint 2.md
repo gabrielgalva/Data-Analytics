@@ -24,7 +24,7 @@
 
 
 <h3>- Seção 6:</h3>
-<h4>Obtive conhecimentos sobre os comandos de JOIN no SQL, aprendi sobre os diferentes tipos de Join, como INNER JOIN, LEFT JOIN, RIGHT JOIN e FULL JOIN, e como eles podem ser usados para combinar dados de várias tabelas. Analisei exemplos práticos de como aplicar esses comandos e fiz varias vezes a atividade que está disponível sobre o uso dos Joins. 
+<h4>- Obtive conhecimentos sobre os comandos de JOIN no SQL, aprendi sobre os diferentes tipos de Join, como INNER JOIN, LEFT JOIN, RIGHT JOIN e FULL JOIN, e como eles podem ser usados para combinar dados de várias tabelas. Analisei exemplos práticos de como aplicar esses comandos e fiz varias vezes a atividade que está disponível sobre o uso dos Joins. 
 
 
 
