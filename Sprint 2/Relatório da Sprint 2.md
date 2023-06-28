@@ -23,9 +23,8 @@
 <h4>- Entendi as funções de agregação no SQL, aprendi a utilizar funções como  COUNT, MIN e MAX para realizar cálculos em conjuntos de dados. Também estudei o comando GROUP BY, que me permitiu agrupar os resultados da consulta com base em colunas específicas, além disso, aprendi sobre o comando HAVING, que usei para filtrar os resultados após a aplicação do GROUP BY.</h4>
 
 
-
-
-
+<h3>- Seção 6:</h3>
+<h4>Obtive conhecimentos sobre os comandos de JOIN no SQL, aprendi sobre os diferentes tipos de Join, como INNER JOIN, LEFT JOIN, RIGHT JOIN e FULL JOIN, e como eles podem ser usados para combinar dados de várias tabelas. Analisei exemplos práticos de como aplicar esses comandos e fiz varias vezes a atividade que está disponível sobre o uso dos Joins. 
 
 
 
