@@ -21,3 +21,18 @@
 
 <h3>- Seção 5:</h3>
 <h4>- Entendi as funções de agregação no SQL, aprendi a utilizar funções como  COUNT, MIN e MAX para realizar cálculos em conjuntos de dados. Também estudei o comando GROUP BY, que me permitiu agrupar os resultados da consulta com base em colunas específicas, além disso, aprendi sobre o comando HAVING, que usei para filtrar os resultados após a aplicação do GROUP BY.</h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
