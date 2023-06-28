@@ -31,6 +31,20 @@
 <h4>- Aprendi sobre os comandos de UNION no SQL, descobri como utilizar o UNION para combinar resultados de consultas, o UNION ALL para incluir duplicatas, acompanhei e fiz os exemplos práticos para entender como aplicar esses comandos.</h4>
 
 
+<h3>- Seção 8:</h3>
+<h4></h4>
+
+<h3>- Seção 9:</h3>
+<h4></h4>
+
+<h3>- Seção 10:</h3>
+<h4></h4>
+
+<h3>- Seção 11:</h3>
+<h4></h4>
+
+<h3>- Seção 12:</h3>
+<h4></h4>
 
 
 
