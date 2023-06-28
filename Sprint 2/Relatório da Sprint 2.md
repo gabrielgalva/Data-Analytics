@@ -14,3 +14,6 @@
  
 <h3>- Seção 3:</h3>
 <h4>- Aprofundei nos comandos básicos, como SELECT, DISTINCT, WHERE, ORDER BY e LIMIT. Aprendi a escrever consultas eficientes, filtrar resultados, ordenar dados e controlar o número de registros retornados. Além disso, enfrentei um desafio prático que me permitiu aplicar o conhecimento adquirido.</h4>
+
+<h3>- Seção 4:</h3>
+<h4>- Explorei os operadores no SQL, aprendi sobre os operadores aritméticos, que permitem realizar cálculos matemáticos, como adição e subtração, diretamente nas consultas. Também estudei os operadores de comparação, que são usados para comparar valores e filtrar os resultados com base em condições específicas. Além disso, abordei os operadores lógicos, como AND e OR, que são úteis para combinar condições em consultas mais complexas e no fim fiz um desafio prático.l</h4>
