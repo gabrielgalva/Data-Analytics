@@ -91,3 +91,6 @@
 <h4>- No fim do curso configurei meu ambiente de desenvolvimento web, instalando o Apache como servidor web, o MySQL como sistema de gerenciamento de banco de dados e o PHP como linguagem de programação.fiz ajustes no Firewall, instalei o editor de texto Sublime e criei um usuário no MySQL, agora posso conectar o PHP ao banco de dados e exibir dados da minha aplicação em páginas HTML.</h4>
 
 <h3>- Dificuldades:</h3>
+<h4>- Tive dificuldade quando o instrutor pediu para executar o VBox_GAs_7.0.8, não consegui fazer o download , mas pesquisei na internet e encontrei uma forma de realizar esse update por meio do terminal , segue o link do site: https://www.vivaolinux.com.br/artigo/Instalando-Adicionais-para-Convidados-para-VirtualBox-no-Debian-Linux-Mint-e-Ubuntu
+</h4>
+
