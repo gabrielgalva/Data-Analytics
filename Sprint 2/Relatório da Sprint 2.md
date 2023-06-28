@@ -27,6 +27,8 @@
 <h4>- Obtive conhecimentos sobre os comandos de JOIN no SQL, aprendi sobre os diferentes tipos de Join, como INNER JOIN, LEFT JOIN, RIGHT JOIN e FULL JOIN, e como eles podem ser usados para combinar dados de várias tabelas. Analisei exemplos práticos de como aplicar esses comandos e fiz varias vezes a atividade que está disponível sobre o uso dos Joins. 
 
 
+<h3>- Seção 7:</h3>
+<h4>- Aprendi sobre os comandos de UNION no SQL, descobri como utilizar o UNION para combinar resultados de consultas, o UNION ALL para incluir duplicatas, acompanhei e fiz os exemplos práticos para entender como aplicar esses comandos.</h4>
 
 
 
