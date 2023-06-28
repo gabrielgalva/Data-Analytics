@@ -17,3 +17,7 @@
 
 <h3>- Seção 4:</h3>
 <h4>- Explorei os operadores no SQL, aprendi sobre os operadores aritméticos, que permitem realizar cálculos matemáticos, como adição e subtração, diretamente nas consultas. Também estudei os operadores de comparação, que são usados para comparar valores e filtrar os resultados com base em condições específicas. Além disso, abordei os operadores lógicos, como AND e OR, que são úteis para combinar condições em consultas mais complexas e no fim fiz um desafio prático.</h4>
+
+
+<h3>- Seção 5:</h3>
+<h4>- Entendi as funções de agregação no SQL, aprendi a utilizar funções como  COUNT, MIN e MAX para realizar cálculos em conjuntos de dados. Também estudei o comando GROUP BY, que me permitiu agrupar os resultados da consulta com base em colunas específicas, além disso, aprendi sobre o comando HAVING, que usei para filtrar os resultados após a aplicação do GROUP BY.</h4>
