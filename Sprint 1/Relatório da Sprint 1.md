@@ -1,4 +1,4 @@
-<h1>- Sprint 1:</h1>
+<h1>- Sprint :</h1>
 <h4>– Durante a primeira sprint, dediquei-me aos cursos abrangentes de Git/GitHub, desde os conceitos básicos até os avançados, bem como ao curso de Linux para desenvolvedores. A seguir, apresentarei o que explorei durante esses cursos, além de compartilhar minhas impressões e dificuldades encontradas ao longo do aprendizado.
 
  </h4>
