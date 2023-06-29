@@ -32,7 +32,7 @@
 
 
 <h3>- Seção 8:</h3>
-<h4></h4>
+<h4>- Estudei sobre subqueries, os tipos e aplicação dessas ferramentas em consultas, com exemplos práticos e um desafio, aprendi que as subqueries podem ser correlacionadas, dependendo dos resultados da consulta principal, ou não correlacionadas.</h4>
 
 <h3>- Seção 9:</h3>
 <h4></h4>
