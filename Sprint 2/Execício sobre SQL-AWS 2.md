@@ -1,8 +1,9 @@
 <h1>Execício - AWS 2/10</h1>
 
 <h2>• Linguagem SQL</h2>
+<h4>-  Abaixo compartilhei os exercícios resolvidos da Sprint 2 sobre SQL. </h4>
 
-<h3>- Caso de estudo"Biblioteca"</h3>
+<h2>• Caso de estudo"Biblioteca"</h2>
 
 <h3>- Exercício de programação 1: E1</h3>
 <img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/1619f891-a69c-4fbf-b928-ad4ad1ffc82b" width="750">
