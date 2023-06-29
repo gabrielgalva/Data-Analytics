@@ -12,3 +12,6 @@
 
 <h3>- Exercício de programação 3: E3</h3>
 <img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/2caf4b30-77d1-4634-b001-c5fa48645b7d" width="750">
+
+<h3>- Exercício de programação 4: E4</h3>
+<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/55850605-dd66-46f5-8931-66be6d462d73" width="750">
