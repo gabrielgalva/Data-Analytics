@@ -38,7 +38,7 @@
 <h4>- Na aula de tratamento de dados, aprendi comandos básicos, conversão de unidades, limpeza e normalização de dados, manipulação de texto, tratamento de datas e uso de funções. </h4>
 
 <h3>- Seção 10:</h3>
-<h4></h4>
+<h4>- Sobre manipulação de tabelas, tive a oportunidade de aprender habilidades fundamentais para lidar com dados em um banco de dados. Aprendi como criar tabelas, definindo os nomes das colunas e os tipos de dados adequados, compreendi a importância de aplicar restrições, como chaves primárias e estrangeiras, para garantir a integridade dos dados.</h4>
 
 <h3>- Seção 11:</h3>
 <h4></h4>
