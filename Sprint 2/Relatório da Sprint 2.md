@@ -35,7 +35,7 @@
 <h4>- Estudei sobre subqueries, os tipos e aplicação dessas ferramentas em consultas, com exemplos práticos e um desafio, aprendi que as subqueries podem ser correlacionadas, dependendo dos resultados da consulta principal, ou não correlacionadas.</h4>
 
 <h3>- Seção 9:</h3>
-<h4>Na aula de tratamento de dados, aprendi comandos básicos, conversão de unidades, limpeza e normalização de dados, manipulação de texto, tratamento de datas e uso de funções. </h4>
+<h4>- Na aula de tratamento de dados, aprendi comandos básicos, conversão de unidades, limpeza e normalização de dados, manipulação de texto, tratamento de datas e uso de funções. </h4>
 
 <h3>- Seção 10:</h3>
 <h4></h4>
