@@ -16,3 +16,19 @@
 
 <h3>- Exercício de programação 4: E4</h3>
 <img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/55850605-dd66-46f5-8931-66be6d462d73" width="750">
+
+<h3>- Exercício de programação 5: E5</h3>
+<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/d18bec67-2133-4480-81ab-52d1fd92c716"width="750">
+
+
+<h3>- Exercício de programação 6: E6</h3>
+<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/36f5c02e-f65d-4b95-ab92-cc03e35a6a62"width="750">
+
+
+<h3>- Exercício de programação 4: E4</h3>
+
+
+<h3>- Exercício de programação 4: E4</h3>
+
+
+<h3>- Exercício de programação 4: E4</h3>
