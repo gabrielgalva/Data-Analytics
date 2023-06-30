@@ -25,10 +25,44 @@
 <img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/36f5c02e-f65d-4b95-ab92-cc03e35a6a62"width="750">
 
 
-<h3>- Exercício de programação 4: E4</h3>
+<h3>- Exercício de programação 7: E7</h3>
+<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/5e0e08d8-89f4-42b2-aa5e-9b74b649d8ed"width="750">
 
 
-<h3>- Exercício de programação 4: E4</h3>
+<h2>• Caso de estudo "Loja" </h2>
+
+<h3>- Exercício de programação 8: E8</h3>
+<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/b686e37b-c2cd-49fe-8c4f-51d667c1400a" width="750">
 
 
-<h3>- Exercício de programação 4: E4</h3>
+
+<h3>- Exercício de programação 9: E9</h3>
+<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/d664dde7-db5c-45ec-ad4c-63ea9380228f" width="750">
+
+
+<h3>- Exercício de programação 10: E10</h3>
+
+<h3>- Exercício de programação 11: E11</h3>
+<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/929cca46-e089-4bf5-abd7-eeeaf610b799" width="750">
+
+
+<h3>- Exercício de programação 12: E12</h3>
+
+
+<h3>- Exercício de programação 13: E13</h3>
+
+
+<h3>- Exercício de programação 14: E14</h3>
+
+
+<h3>- Exercício de programação 15: E15</h3>
+<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/7137e640-5673-41ba-a750-c441613b1265" width="750">
+
+
+<h3>- Exercício de programação 16: E16</h3>
+
+
+
+
+
+
