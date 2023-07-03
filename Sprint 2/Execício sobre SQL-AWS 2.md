@@ -52,6 +52,7 @@
 
 
 <h3>- Exercício de programação 13: E13</h3>
+<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/5abb362f-7635-40e6-8091-7714a193d46a" width="750">
 
 
 <h3>- Exercício de programação 14: E14</h3>
