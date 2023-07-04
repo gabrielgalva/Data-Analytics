@@ -1,4 +1,7 @@
+<h1>Execício - AWS 2/10</h1>
 
+<h2>• Linguagem SQL</h2>
+<h4>-  Abaixo compartilhei os exercícios resolvidos na seção 4 sobre SQL. </h4>
 
 <h2>• Caso de estudo "Loja" </h2>
 
