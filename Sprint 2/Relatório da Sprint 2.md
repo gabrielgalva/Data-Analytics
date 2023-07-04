@@ -41,7 +41,7 @@
 <h4>- Sobre manipulação de tabelas, tive a oportunidade de aprender habilidades fundamentais para lidar com dados em um banco de dados. Aprendi como criar tabelas, definindo os nomes das colunas e os tipos de dados adequados, compreendi a importância de aplicar restrições, como chaves primárias e estrangeiras, para garantir a integridade dos dados.</h4>
 
 <h3>- Seção 11:</h3>
-<h4></h4>
+<h4>A aula abordou a criação de um dashboard para acompanhar as vendas de uma empresa, foram apresentadas queries SQL para extrair informações relevantes dos dados de vendas, como total de vendas por período, produtos mais vendidos e clientes mais frequentes. Também foi ensinado como criar gráficos para visualizar os dados de forma mais intuitiva,o objetivo foi desenvolver um dashboard eficiente para análise e monitoramento das vendas.</h4>
 
 <h3>- Seção 12:</h3>
 <h4></h4>
