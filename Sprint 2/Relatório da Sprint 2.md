@@ -47,7 +47,7 @@
 <h4>- Foi a criação de um projeto que teve como objetivo ensinar como analisar o perfil dos clientes por meio de queries SQL e representar os resultados por meio de gráficos, isso possibilita uma compreensão mais clara e visual dos dados de perfil de cliente, auxiliando na identificação de padrões e insights relevantes para a empresa.</h4>
 
 <h3>- Seção 13:</h3>
-<h4></h4>
+<h4>E a ultima seção foi um encerrameto do curso ,no geral o curso me proporcionou uma base sólida em SQL, capacitando-me a realizar análises de dados mais sofisticadas e a obter insights relevantes para os meus projetos. Saio do curso motivado a explorar ainda mais as funcionalidades e recursos do SQL, e continuarei a aperfeiçoar minhas habilidades nessa área em busca de melhorias contínuas em minha prática profissional. </h4>
 
 
 
