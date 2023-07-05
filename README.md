@@ -1,6 +1,6 @@
 <h1 align="center"> Estágio Compass Uol
 </h1>
-<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/bd2fcf0a-3bf1-4af8-878c-e502a2d7236c"width="150px"</img>
+<img src="https://github.com/gabrielgalva/Data-Analytics/assets/136500240/bd2fcf0a-3bf1-4af8-878c-e502a2d7236c"width="150px"align="center"</img>
 <br>
 <br>
 <h2>- Apresentação</h2>
