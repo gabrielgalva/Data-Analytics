@@ -1,4 +1,4 @@
--Exercício de programação 4: E4
+- Exercício de programação 4: E4
 SELECT autor.codautor, autor.nome, autor.nascimento, COUNT(livro.cod) AS quantidade
 FROM autor
 LEFT JOIN livro ON livro.autor = autor.codautor

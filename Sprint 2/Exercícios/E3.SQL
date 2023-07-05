@@ -1,4 +1,4 @@
--Exercício de programação 3: E3
+- Exercício de programação 3: E3
 SELECT COUNT(livro.cod) AS quantidade, editora.nome, endereco.estado, endereco.cidade
 FROM livro
 INNER JOIN editora ON livro.editora = editora.codeditora
