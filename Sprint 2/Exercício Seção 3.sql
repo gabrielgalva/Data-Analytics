@@ -19,6 +19,7 @@ from livro l
 ORDER by valor desc
 limit 10 
 
+  
 <h3>- Exercício de programação 3: E3</h3>
 SELECT COUNT(livro.cod) AS quantidade, editora.nome, endereco.estado, endereco.cidade
 FROM livro
@@ -27,12 +28,15 @@ INNER JOIN endereco ON editora.endereco = endereco.codendereco
 GROUP BY editora.nome, endereco.estado, endereco.cidade
 ORDER BY quantidade DESC
 LIMIT 5;
+
+
 <h3>- Exercício de programação 4: E4</h3>
 SELECT autor.codautor, autor.nome, autor.nascimento, COUNT(livro.cod) AS quantidade
 FROM autor
 LEFT JOIN livro ON livro.autor = autor.codautor
 GROUP BY autor.codautor, autor.nome, autor.nascimento
 ORDER BY autor.nome ASC;
+
 
 <h3>- Exercício de programação 5: E5</h3>
 SELECT DISTINCT 
@@ -48,8 +52,8 @@ LEFT JOIN endereco en
 WHERE UPPER(en.estado) NOT IN ('PARANÁ', 'RIO GRANDE DO SUL', 'SANTA CATARINA') 
 ORDER BY a.nome ASC;
 
-<h3>- Exercício de programação 6: E6</h3>
 
+<h3>- Exercício de programação 6: E6</h3>
 SELECT a.codautor, a.nome, COUNT(l.cod) AS quantidade_publicacoes
 FROM autor a
 INNER JOIN livro l ON a.codautor = l.autor
@@ -61,6 +65,7 @@ HAVING COUNT(l.cod) = (
     ORDER BY COUNT(cod) DESC
     LIMIT 1
 );
+
 
 <h3>- Exercício de programação 7: E7</h3>
 select
