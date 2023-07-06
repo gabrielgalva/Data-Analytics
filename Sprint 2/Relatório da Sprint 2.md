@@ -50,6 +50,34 @@
 <h4>- E a ultima seção foi um encerrameto do curso ,no geral o curso me proporcionou uma base sólida em SQL, capacitando-me a realizar análises de dados mais sofisticadas e a obter insights relevantes para os meus projetos. Saio do curso motivado a explorar ainda mais as funcionalidades e recursos do SQL, e continuarei a aperfeiçoar minhas habilidades nessa área em busca de melhorias contínuas em minha prática profissional. </h4>
 
 
+<h2>• Big Data Fundamentos 3.0:</h2>
+
+<h4>No inicio do curso de Big Data, fui introduzido ao programa e à plataforma de estudo, aprendi a navegar pela plataforma e conheci o conteúdo do curso. Também recebi informações sobre a avaliação final e a conclusão do curso, além disso, ganhei um eBook gratuito da Data Science Academy para complementar meus estudos.</h4>
+
+<h4>Aprendi sobre o que é Big Data, descobri alguns fatos interessantes sobre ele e entendi sua definição,também aprendi sobre os "4 Vs" do Big Data: volume, velocidade, variedade e veracidade. Vi alguns números impressionantes relacionados ao Big Data e entendi a diferença entre Big Data e Ciência de Dados, conheci exemplos de como o Big Data é aplicado em diferentes áreas, no final, fiz um questionário para testar meus conhecimentos.</h4>
+
+<h4> Abordei os sistemas de armazenamento de dados no contexto do Big Data, compreendi a diferença entre bancos de dados relacionais e NoSQL, explorando suas respectivas adequações. Também familiarizei-me com o conceito de data warehouse, um sistema centralizado para armazenar e analisar dados provenientes de várias fontes.
+Além disso, descobri os data lakes, que são repositórios flexíveis para armazenamento de dados brutos, e suas vantagens,também adquiri conhecimento sobre data stores, soluções que permitem armazenamento rápido e escalável de dados, por fim explorei os sistemas híbridos de armazenamento, que combinam diversas tecnologias para atender às demandas específicas do Big Data.</h4>
+
+
+<h4>Mergulhei no mundo do armazenamento e processamento paralelo no contexto do Big Data, explorando o tema, descobri o poder dos clusters de computadores interconectados, capazes de lidar com grandes volumes de dados de forma eficiente, compreendi a importância do armazenamento paralelo, com uma abordagem distribuída que permite acessar e armazenar dados de forma eficiente em um cluster.
+
+Foi fascinante conhecer o Apache Hadoop, um software amplamente utilizado nesse cenário, ele oferece recursos para armazenamento paralelo e processamento distribuído de dados em grande escala. Através do processamento paralelo de Big Data, pude entender como operações simultâneas realizadas em um cluster podem acelerar significativamente o tempo de processamento.
+
+Adentrando na arquitetura de armazenamento e processamento paralelo, ficou claro como diferentes tecnologias e componentes se unem para otimizar o desempenho no processamento de Big Data. Explorar soluções disponíveis no mercado para o armazenamento e processamento paralelo revelou a variedade de opções e abordagens disponíveis para enfrentar os desafios desse campo em constante evolução.</h4>
+
+
+
+<h4></h4>
+
+
+
+<h4></h4>
+<h4></h4>
+<h4></h4>
+<h4></h4>
+<h4></h4>
+<h4></h4>
 
 
 
