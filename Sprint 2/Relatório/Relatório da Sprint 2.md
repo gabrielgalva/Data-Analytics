@@ -49,6 +49,9 @@
 <h3>- Seção 13:</h3>
 <h4>- E a ultima seção foi um encerrameto do curso ,no geral o curso me proporcionou uma base sólida em SQL, capacitando-me a realizar análises de dados mais sofisticadas e a obter insights relevantes para os meus projetos. Saio do curso motivado a explorar ainda mais as funcionalidades e recursos do SQL, e continuarei a aperfeiçoar minhas habilidades nessa área em busca de melhorias contínuas em minha prática profissional. </h4>
 
+<h3>- Dificuldades:</h3>
+<h4>Tive dificuldade apenas na criação de joins, no entanto após realizar pesquisas e praticar, consegui dominar essa operação com sucesso.</h4>
+
 <h2>• Big Data Fundamentos 3.0:</h2>
 
 <h3>- Seção 1:</h3>
@@ -92,3 +95,6 @@ Adentrando na arquitetura de armazenamento e processamento paralelo, ficou claro
 
 <h3>- Seção 10:</h3>
 <h4>-  Nessa parte final do curso, finalizei a avaliação e obtive meu certificado de conclusão com um resultado de 82% de aproveitamento, comprovando meu conhecimento em Big Data.</h4>
+
+<h3>- Dificuldades:</h3>
+<h4>Durante o curso de Big Data, não encontrei grandes dificuldades, mas levei um pouco mais de tempo para assimilar certos conceitos abordados. </h4>
