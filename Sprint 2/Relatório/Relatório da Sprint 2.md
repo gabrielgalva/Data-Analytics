@@ -51,34 +51,44 @@
 
 <h2>• Big Data Fundamentos 3.0:</h2>
 
+<h3>- Seção 1:</h3>
 <h4>- No inicio do curso de Big Data, fui introduzido ao programa e à plataforma de estudo, aprendi a navegar pela plataforma e conheci o conteúdo do curso. Também recebi informações sobre a avaliação final e a conclusão do curso, além disso, ganhei um eBook gratuito da Data Science Academy para complementar meus estudos.</h4>
 
 
+<h3>- Seção 2:</h3>
 <h4>- Aprendi sobre o que é Big Data, descobri alguns fatos interessantes sobre ele e entendi sua definição,também aprendi sobre os "4 Vs" do Big Data: volume, velocidade, variedade e veracidade. Vi alguns números impressionantes relacionados ao Big Data e entendi a diferença entre Big Data e Ciência de Dados, conheci exemplos de como o Big Data é aplicado em diferentes áreas, no final, fiz um questionário para testar meus conhecimentos.</h4>
 
 
+<h3>- Seção 3:</h3>
 <h4>- Abordei os sistemas de armazenamento de dados no contexto do Big Data, compreendi a diferença entre bancos de dados relacionais e NoSQL, explorando suas respectivas adequações. Também familiarizei-me com o conceito de data warehouse, um sistema centralizado para armazenar e analisar dados provenientes de várias fontes.
 Além disso, descobri os data lakes, que são repositórios flexíveis para armazenamento de dados brutos, e suas vantagens,também adquiri conhecimento sobre data stores, soluções que permitem armazenamento rápido e escalável de dados, por fim explorei os sistemas híbridos de armazenamento, que combinam diversas tecnologias para atender às demandas específicas do Big Data.</h4>
 
 
+<h3>- Seção 4:</h3>
 <h4>- Mergulhei no mundo do armazenamento e processamento paralelo no contexto do Big Data, explorando o tema, descobri o poder dos clusters de computadores interconectados, capazes de lidar com grandes volumes de dados de forma eficiente, compreendi a importância do armazenamento paralelo, com uma abordagem distribuída que permite acessar e armazenar dados de forma eficiente em um cluster.
 Foi fascinante conhecer o Apache Hadoop, um software amplamente utilizado nesse cenário, ele oferece recursos para armazenamento paralelo e processamento distribuído de dados em grande escala. Através do processamento paralelo de Big Data, pude entender como operações simultâneas realizadas em um cluster podem acelerar significativamente o tempo de processamento.
 Adentrando na arquitetura de armazenamento e processamento paralelo, ficou claro como diferentes tecnologias e componentes se unem para otimizar o desempenho no processamento de Big Data. Explorar soluções disponíveis no mercado para o armazenamento e processamento paralelo revelou a variedade de opções e abordagens disponíveis para enfrentar os desafios desse campo em constante evolução.</h4>
 
 
+<h3>- Seção 5:</h3>
 <h4>- Aprendi sobre cloud computing e sua relação com o big data, conheci os principais provedores em nuvem, com destaque para a Amazon Web Services (AWS). Também participei de uma demonstração prática de processamento de big data na nuvem usando AWS. </h4>
 
 
+<h3>- Seção 6:</h3>
 <h4>- Primeiramente, aprendi sobre Machine Learning (aprendizado de máquina) e entendi que se trata de algoritmos que permitem que os sistemas aprendam a partir dos dados.Em seguida, explorei o MLOps, que é a aplicação de práticas de engenharia de software ao desenvolvimento de modelos de Machine Learning, isso envolve automação, controle de versão, monitoramento e escalabilidade.Consegui compreender como o MLOps resolve desafios comuns na implementação de modelos de Machine Learning, como gerenciamento de versões e garantia de qualidade.E aprendi sobre o DataOps, que se refere a práticas e processos para melhorar a colaboração e eficiência na gestão de dados. </h4>
 
 
+<h3>- Seção 7:</h3>
 <h4>- Explorei o conceito de "Dados Como Serviço" (DaaS) e as arquiteturas modernas de Big Data, o DaaS  mostrou como é possível disponibilizar os dados como um serviço, permitindo um acesso flexível e escalável. Eu entendi a arquitetura por trás do DaaS e os benefícios que ele traz. Além disso, aprendi sobre abordagens inovadoras na arquitetura de Big Data, como o Data Lakehouse e o Data Mesh, que proporcionam maior flexibilidade no armazenamento, também fui apresentado a algumas soluções comerciais disponíveis para implementar o DaaS e as arquiteturas modernas de Big Data.</h4>
 
 
+<h3>- Seção 8:</h3>
 <h4>- Estudei sobre ETL (Extração, Transformação e Carga de Dados), compreendi sua importância no gerenciamento de dados, envolvendo a extração, transformação e carga em um destino final. Também conheci as principais soluções disponíveis no mercado e participei de uma demonstração prática envolvendo ETL e Big Data.</h4>
 
 
+<h3>- Seção 9:</h3>
 <h4>- Entendi a importância do Big Data Analytics e como as empresas estão utilizando os dados para impulsionar seus negócios, conheci casos de uso do Big Data Analytics e aprendi os passos essenciais para começar um projeto de Big Data, como definir um Business Case sólido, planejar o projeto, estabelecer requisitos técnicos e avaliar o valor comercial do projeto.</h4>
 
 
+<h3>- Seção 10:</h3>
 <h4>-  Nessa parte final do curso, finalizei a avaliação e obtive meu certificado de conclusão com um resultado de 82% de aproveitamento, comprovando meu conhecimento em Big Data.</h4>
