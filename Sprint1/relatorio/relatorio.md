@@ -93,3 +93,6 @@
 <h3>- Dificuldades:</h3>
 <h4>- Tive dificuldade quando o instrutor pediu para executar o VBox_GAs_7.0.8, não consegui fazer o download , mas pesquisei na internet e encontrei uma forma de realizar esse update por meio do terminal , segue o link do site: https://www.vivaolinux.com.br/artigo/Instalando-Adicionais-para-Convidados-para-VirtualBox-no-Debian-Linux-Mint-e-Ubuntu
 </h4>
+
+
+fgdsvgagadfsdfvs
