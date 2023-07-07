@@ -1,6 +1,6 @@
 
 <h1>- Sprint 2:</h1>
-<h4>–  </h4>
+<h4>– Neste documento, apresento um resumo da Sprint 2, que abrangeu dois tópicos: SQL para Análise de Dados, do básico ao avançado, e Big Data Fundamentos 3.0. A Sprint ocorreu no período de 26/06 a 07/07 e organizei em seções distintas, cada uma correspondendo a um assunto específico. </h4>
 
 <h2>• SQL para Ánalise de Dados do básico ao avançando:</h2>
 
