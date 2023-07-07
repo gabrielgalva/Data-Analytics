@@ -82,9 +82,9 @@ Adentrando na arquitetura de armazenamento e processamento paralelo, ficou claro
 <h4>- Entendi a importância do Big Data Analytics e como as empresas estão utilizando os dados para impulsionar seus negócios, conheci casos de uso do Big Data Analytics e aprendi os passos essenciais para começar um projeto de Big Data, como definir um Business Case sólido, planejar o projeto, estabelecer requisitos técnicos e avaliar o valor comercial do projeto.</h4>
 
 
-<h4>-  Nessa parte final do curso, finalizei a avaliação e obtive meu certificado de conclusão com um resultado de 82% de aproveitamento, comprovando meu conhecimento em Big Data.</h4>
+<h4>-  Nessa parte final do curso, finalizei a avaliação e obtive meu certificado de conclusão com um resultado de 82% de aproveitamento, comprovando meu conhecimento em Big Dat.</h4>
 
 
 
 
-
+adaadqadadasdaa
