@@ -88,8 +88,3 @@ Adentrando na arquitetura de armazenamento e processamento paralelo, ficou claro
 
 
 
-<h4></h4>
-
-
-
-
