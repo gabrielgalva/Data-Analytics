@@ -18,10 +18,10 @@
 <h4>- Na quarta seção do curso, aprendi a executar código Python de diferentes maneiras. Utilizei o interpretador Python para testar comandos em tempo real também experimentei o Jupyter, onde pude escrever e executar código em células separadas e explorei o VSCode como um ambiente de desenvolvimento completo para executar código Python. </h4>
 
  <h3>- Seção 5:</h3>
-<h4>-</h4>
+<h4>- Nesta seção sobre fundamentos de Python, aprendi sobre tipos de dados básicos, como números e strings, e como usar variáveis para armazenar valores. Descobri operadores aritméticos, relacionais e lógicos, além de loops e condicionais para controlar o fluxo do programa. Também aprendi sobre listas, dicionários, conjuntos e funções. </h4>
 
  <h3>- Seção 6:</h3>
-<h4>-</h4>
+<h4>- </h4>
 
  <h3>- Seção 7:</h3>
 <h4>-</h4>
