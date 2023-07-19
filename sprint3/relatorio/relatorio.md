@@ -34,7 +34,40 @@
 <h4>- Entendi técnicas avançadas de manipulação de dados em Python. Usei List Comprehension para criar listas de forma concisa, aprendi sobre Generators, que economizam memória ao gerar valores sob demanda. Também explorei Dict Comprehension para criar dicionários de maneira concisa. Além disso, simulei uma estrutura de controle SWITCH para executar ações com base em valores específicos.</h4>
 
  <h3>- Seção 11:</h3>
-<h4>-</h4>
+<h4>- Conheci sobre os diferentes tipos de parâmetros em Python, como opcionais e nomeados, explorei os conceitos de packing e unpacking, tanto para parâmetros regulares quanto nomeados. Também abordei objetos callable, a resolução do problema de parâmetros padrão mutáveis e o uso de decoradores para modificar o comportamento das funções, e fiz um desafio que envolvia a criação de um gerador HTML.</h4>
 
- 
- 
+  <h3>- Seção 12:</h3>
+
+ <h4>- Explorei a importação de funções de outros pacotes e a resolução de conflitos entre módulos com o mesmo nome, aprendi sobre a importação direta de funções específicas e a abordagem de pacote como façade para simplificar o uso, e no final fiz um desafio relacionado a pacotes, aplicando os conceitos aprendidos.</h4>
+
+   <h3>- Seção 13:</h3>
+<h4>- Foi abordada uma visão geral da Programação Orientada a Objetos (POO). Aprendi sobre os conceitos fundamentais da POO, incluindo classe, objeto e os pilares da POO: encapsulamento, herança e polimorfismo. Também explorei a criação de classes, o uso de construtores, a implementação de métodos e atributos, além de conceitos como herança, métodos "privados", sobrecarga de operadores e tratamento de exceções , no fim teve um desafio prático para aplicar os conceitos aprendidos.</h4>
+
+
+  <h3>- Seção 14:</h3>
+<h4>-  Na seção 14 sobre conceitos avançados de Programação Orientada a Objetos (POO). Entendi a diferença entre membros de classe e membros de instância, explorei os tipos de métodos em uma classe e aprendi sobre propriedades para acessar e definir atributos de forma personalizada. Também estudei classes abstratas, herança múltipla, mixins e iterators. No fim realizei um desafio prático de POO avançada.</h4>
+
+
+  <h3>- Seção 15:</h3>
+<h4>- Na seção de programação funcional, explorei os recursos e conceitos desse paradigma. Descobri que as funções são tratadas como cidadãos de primeira classe, o que significa que podem ser manipuladas como qualquer outra entidade de programação. Aprendi sobre funções de alta ordem, closures e funções lambda, que proporcionam flexibilidade e expressividade no código. Utilizei recursos como map, filter e reduce para transformar, filtrar e reduzir sequências de dados. Fiz desafios práticos, como o fatorial recursivo e a imutabilidade, que me permitiram aplicar os conceitos aprendidos.Aprendi sobre generators e a implementação do map. Também enfrentei o desafio do máximo divisor comum (MDC).</h4>
+
+
+  <h3>- Seção 16:</h3>
+<h4></h4>
+
+
+  <h3>- Seção 17:</h3>
+<h4></h4>
+
+
+  <h3>- Seção 18:</h3>
+<h4></h4>
+
+
+  <h3>- Seção 19:</h3>
+<h4></h4>
+
+
+
+  <h3>- Seção 20:</h3>
+<h4></h4>
