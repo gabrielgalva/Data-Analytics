@@ -57,7 +57,7 @@
 
 
   <h3>- Seção 17:</h3>
-<h4></h4>
+<h4>- Na seção de Isolamento de Ambiente, aprendi sobre a importância de criar ambientes isolados para o desenvolvimento de projetos Python. Explorei o comando de ativação específico no Windows para criar um ambiente virtual, compreendi o conceito do VENV, que permite a criação e gestão de ambientes virtuais independentes para cada projeto.</h4>
 
 
   <h3>- Seção 18:</h3>
