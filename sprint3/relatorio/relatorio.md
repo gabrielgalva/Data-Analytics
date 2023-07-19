@@ -53,7 +53,7 @@
 
 
   <h3>- Seção 16:</h3>
-<h4></h4>
+<h4>- No módulo de Gerenciamento de Pacotes, aprendi sobre a importância de manter meus pacotes atualizados, verifiquei as versões dos pacotes instalados e atualizei o PIP. Também solucionei um erro relacionado à pesquisa no PIP, e aprendi a utilizar o PIP para instalar, atualizar e remover pacotes.</h4>
 
 
   <h3>- Seção 17:</h3>
