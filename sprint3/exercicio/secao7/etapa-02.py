@@ -9,6 +9,7 @@ def ler_csv(arquivo):
             linhas.append(campos)
     return linhas
 
+
 caminho = r'/Users/gabrieldosanjos/Desktop/Desafio/actors .csv'
 dados = ler_csv(caminho)
 substring = [string.split(',') for string in dados]

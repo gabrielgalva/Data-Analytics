@@ -9,6 +9,7 @@ def ler_csv(arquivo):
             linhas.append(campos)
     return linhas
 
+
 caminho = r'/Users/gabrieldosanjos/Desktop/Desafio/actors .csv'
 dados = ler_csv(caminho)
 
@@ -32,7 +33,7 @@ media_faturamento_por_ator = {}
 for ator in atores_faturamento:
     media_faturamento_por_ator[ator] = atores_faturamento[ator] / atores_filmes[ator]
 
-ator_maior_media = max(media_faturamento_por_ator, key=media_faturamento_por_ator.get)
+ator_maior_media = max(media_faturamento_por_ator, key= media_faturamento_por_ator.get)
 maior_media = media_faturamento_por_ator[ator_maior_media]
 
 print(f"O ator/atriz com a maior média de faturamento por filme é {ator_maior_media} com uma média de {maior_media:.2f}.")
