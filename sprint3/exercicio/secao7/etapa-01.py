@@ -11,6 +11,7 @@ def ler_csv(arquivo):
 
         return linhas
 
+
 caminho = r'/Users/gabrieldosanjos/Desktop/Desafio/actors .csv'
 dados = ler_csv(caminho)
 substring = [string.split(',') for string in dados]
@@ -33,7 +34,7 @@ for c in range(1,51):
 
 print(f'Nome: {nm_ator} Qtd: {qtd_f}')
 
-txt = r'C:\Desafio_Python\etapa-1.txt'
+txt = r'Python\etapa-1.txt'
 
 with open(txt,'w') as resp:
     resp.write(f'Ator: {nm_ator}\n')

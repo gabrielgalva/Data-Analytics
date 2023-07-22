@@ -37,7 +37,7 @@ print("Lista dos atores ordenada pelo faturamento bruto total, em ordem decresce
 for ator, faturamento_total in atores_ordenados:
     print(f"{ator}: {faturamento_total:.2f}")
 
-txt = r'C:\Desafio_Python\etapa-5.txt'
+txt = r'C:Python\etapa-5.txt'
 with open(txt, 'w') as resp:
     resp.write("Lista dos atores ordenada pelo faturamento bruto total, em ordem decrescente:\n")
     for ator, faturamento_total in atores_ordenados:

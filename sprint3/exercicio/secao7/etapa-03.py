@@ -38,6 +38,6 @@ maior_media = media_faturamento_por_ator[ator_maior_media]
 
 print(f"O ator/atriz com a maior média de faturamento por filme é {ator_maior_media} com uma média de {maior_media:.2f}.")
 
-txt = r'C:\Desafio_Python\etapa-3.txt'
+txt = r'Python\etapa-3.txt'
 with open(txt, 'w') as resp:
     resp.write(f"O ator/atriz com a maior média de faturamento por filme é {ator_maior_media} com uma média de {maior_media:.2f}.")

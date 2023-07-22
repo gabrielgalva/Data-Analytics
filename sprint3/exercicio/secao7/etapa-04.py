@@ -36,6 +36,6 @@ print("O(s) filme(s) mais frequente(s) e sua respectiva frequência:")
 for filme in filmes_mais_frequentes:
     print(f"{filme}: {maior_frequencia}")
 
-    txt = r'C:\Desafio_Python\etapa-4.txt'
+    txt = r'Python\etapa-4.txt'
 with open(txt, 'w') as resp:
     resp.write(f"{filme}: {maior_frequencia}")

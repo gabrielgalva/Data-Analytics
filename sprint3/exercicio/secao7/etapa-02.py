@@ -35,7 +35,7 @@ for c in range(1, len(substring)):
 
 print("Média de faturamento por ator: ")
 
-txt = r'C:\Desafio_Python\etapa-2.txt' 
+txt = r'Python\etapa-2.txt' 
 with open(txt, 'w') as resp:
     for k, v in atores_faturamento.items():
         media = v['faturamento_bruto'] / v['atores_filmes']
