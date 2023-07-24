@@ -61,13 +61,14 @@
 
 
   <h3>- Seção 18:</h3>
-<h4>- </h4>
+<h4>- Aprendi conceitos importantes para trabalhar com bancos de dados relacionais, o modelo E/R (Entidade/Relacionamento) me ensinou como representar entidades e seus relacionamentos. A chave primária se mostrou crucial para identificar registros únicos em tabelas, entendi os diferentes tipos de relacionamentos entre tabelas e como estabelecer conexões.
+
+A linguagem SQL (Structured Query Language) foi apresentada, permitindo consultar e manipular dados nos bancos relacionais. Criei o schema do banco e usei o plugin VSCode para facilitar a manipulação, na tabela "Estados", pratiquei inserir, consultar, atualizar e excluir registros, além disso, a seção explorou consultas avançadas usando agregações para obter informações resumidas.</h4>
 
 
   <h3>- Seção 19:</h3>
-<h4></h4>
-
+<h4>- Nesta seção aprendi a interagir com bancos de dados, criando e modificando tabelas, inserindo e consultando registros, além de filtrar e atualizar informações. Também explorei consultas interativas e técnicas avançadas, como consultas paginadas e uso do comando Join. </h4>
 
 
   <h3>- Seção 20:</h3>
-<h4></h4>
+<h4>- Cheguei ao fim do curso de Python 3, e estou animado com todo o conhecimento que adquiri ao longo desta jornada de aprendizado. Durante as diversas seções do curso, mergulhei em conceitos desde o básico até o avançado, abrangendo uma ampla gama de tópicos.</h4>
