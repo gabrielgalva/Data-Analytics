@@ -4,7 +4,7 @@
 
 
 
-<h4>– Artigo Sobre Programação Funcional:
+<h2>• Artigo Sobre Programação Funcional</h2>
 
 - No artigo "Programação funcional: O que é?", aprendi sobre um paradigma de programação fascinante que se concentra na composição de funções puras para desenvolver software. Ao contrário da programação imperativa com a qual estou mais familiarizado, a programação funcional adota uma abordagem declarativa, onde me preocupo com o que precisa ser feito, não com os detalhes de como fazer.
 
