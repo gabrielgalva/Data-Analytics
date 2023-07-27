@@ -1,7 +1,5 @@
 <h1>- Sprint 4:</h1>
-
-
-
+<h4>- Durante a quarta sprint, dediquei-me aos cursos de Python direcionado para a Programação Funcional, bem como o curso de Docker para Desenvolvedores e Estatística Descritiva com Python, dos dias 24/07 até o dia 07/08. Abaixo relatei o que explorei durante esses cursos. </h4>
 
 
 <h2>• Artigo Sobre Programação Funcional</h2>
@@ -26,4 +24,4 @@
 <h3>- Seção 15:</h3>
 <h4>- Na seção de programação funcional, explorei os recursos e conceitos desse paradigma. Descobri que as funções são tratadas como cidadãos de primeira classe, o que significa que podem ser manipuladas como qualquer outra entidade de programação. Aprendi sobre funções de alta ordem, closures e funções lambda, que proporcionam flexibilidade e expressividade no código. Utilizei recursos como map, filter e reduce para transformar, filtrar e reduzir sequências de dados. Fiz desafios práticos, como o fatorial recursivo e a imutabilidade, que me permitiram aplicar os conceitos aprendidos.Aprendi sobre generators e a implementação do map. Também enfrentei o desafio do máximo divisor comum (MDC).</h4>
 
-<h2>• Docker</h2>
+<h2>• Docker para Desenvolvedores (com Docker Swarm e Kubernetes):</h2>
