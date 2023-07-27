@@ -4,7 +4,7 @@
 <h2>• Python 3 - Curso Completo do Básico ao Avançado:</h2>
 
 <h3>- Seção 1:</h3>
-<h4>- Na primeira seção do curso, tive uma visão geral do programa de Python. A apostila do curso foi apresentada como um recurso para o aprendizado, fornecendo materiais e exercícios práticos, recebi links para acessar o GitHub do curso e a apostila online..</h4>
+<h4>- Na primeira seção do curso, tive uma visão geral do programa de Python. A apostila do curso foi apresentada como um recurso para o aprendizado, fornecendo materiais e exercícios práticos, recebi links para acessar o GitHub do curso e a apostila online.</h4>
 
 <h3>- Seção 2:</h3>
 <h4>- Conheci a filosofia da linguagem e o guia de estilo de código, também descobri o suporte que o curso disponíbiliza por meio de fóruns e explorei os conceitos de algoritmo e estruturas de dados em Python. </h4>
