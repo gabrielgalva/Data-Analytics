@@ -32,7 +32,12 @@
 
 <h3>Seção 2:</h3>
 
-<h4>- </h4>
+<h4>- Aprendi sobre os contêineres Docker e sua utilidade. Entendi que eles oferecem ambientes isolados para executar aplicativos de forma consistente em diferentes sistemas.
+
+Aprendi a diferença entre contêineres e imagens Docker, além de como rodar e interagir com contêineres de forma prática.
+
+Descobri como expor portas, parar, reiniciar e remover contêineres conforme necessário. Também aprendi a acessar logs e definir nomes personalizados para os contêineres.
+</h4>
 
 
 
