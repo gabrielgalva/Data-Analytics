@@ -46,7 +46,7 @@
 
 <h3>- Seção 4:</h3>
 
-<h4>- </h4>
+<h4>- Pude entender a importância dos volumes para manter meus dados de forma persistente em contêineres. Aprendi sobre diversos tipos de volumes, como os anônimos e nomeados, além de utilizar os bind mounts para compartilhar dados com o sistema host. Com esses conhecimentos, agora consigo criar, listar, inspecionar e remover volumes conforme necessário, além de configurá-los como somente leitura para proteger meus dados importantes.</h4>
 
 
 
