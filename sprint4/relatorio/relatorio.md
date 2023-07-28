@@ -30,63 +30,58 @@
 <h4>- Nesta seção introdutória, aprendi sobre o Docker e suas vantagens, com o Docker, posso criar e executar aplicativos em contêineres leves e portáteis. Ele resolve problemas de dependências e configurações, proporcionando um ambiente consistente para o desenvolvimento. Instalei o Docker no meu sistema operacional Mac e comecei a trabalhar com ele no Visual Studio Code.</h4>
 
 
-<h3>Seção 2:</h3>
+<h3>- Seção 2:</h3>
 
-<h4>- Aprendi sobre os contêineres Docker e sua utilidade. Entendi que eles oferecem ambientes isolados para executar aplicativos de forma consistente em diferentes sistemas,aprendi a diferença entre contêineres e imagens Docker, além de como rodar e interagir com contêineres de forma prática.Descobri como expor portas, parar, reiniciar e remover contêineres conforme necessário. Também aprendi a acessar logs e definir nomes personalizados para os contêineres.
+<h4>- Aprendi sobre os contêineres Docker e sua utilidade. Entendi que eles oferecem ambientes isolados para executar aplicativos de forma consistente em diferentes sistemas,aprendi a diferença entre contêineres e imagens Docker, além de como rodar e interagir com contêineres de forma prática.Descobri como expor portas, parar, reiniciar e remover contêineres conforme necessário, também aprendi a acessar logs e definir nomes personalizados para os contêineres.
 </h4>
 
 
 
-<h3>Seção 3:</h3>
+<h3>- Seção 3:</h3>
 
 <h4>- </h4>
 
 
 
 
-<h3>Seção 4:</h3>
+<h3>- Seção 4:</h3>
+
+<h4>- </h4>
+
+
+
+<h3>- Seção 5:</h3>
+
+<h4>- </h4>
+
+
+
+<h3>- Seção 6:</h3>
 
 <h4>- </h4>
 
 
 
 
-
-<h3>Seção 5:</h3>
-
-<h4>- </h4>
-
-
-
-
-<h3>Seção 2:</h3>
+<h3>- Seção 7:</h3>
 
 <h4>- </h4>
 
 
 
-
-<h3>Seção 2:</h3>
-
-<h4>- </h4>
-
-
-
-<h3>Seção 2:</h3>
+<h3>- Seção 8:</h3>
 
 <h4>- </h4>
 
 
 
-<h3>Seção 2:</h3>
+<h3>- Seção 9:</h3>
 
 <h4>- </h4>
 
 
 
-
-
-<h3>Seção 2:</h3>
+<h3>- Seção 10:</h3>
 
 <h4>- </h4>
 
