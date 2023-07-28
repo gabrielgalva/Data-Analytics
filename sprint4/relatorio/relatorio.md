@@ -39,7 +39,7 @@
 
 <h3>- Seção 3:</h3>
 
-<h4>- </h4>
+<h4>- Aprendi sobre imagens Docker, sua importância e como utilizá-las. Compreendi que as imagens são modelos para criar e executar contêineres, oferecendo portabilidade e facilidade de distribuição. Aprendi a escolher imagens adequadas, criar imagens personalizadas com o Dockerfile e executar contêineres a partir delas. Descobri como fazer o download de imagens prontas do Docker Hub e gerenciar imagens e contêineres de forma eficiente. Além disso, aprendi a autenticar-me no Docker Hub e compartilhar minhas imagens com a comunidade.</h4>
 
 
 
