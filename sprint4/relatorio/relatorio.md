@@ -25,3 +25,67 @@
 <h4>- Na seção de programação funcional, explorei os recursos e conceitos desse paradigma. Descobri que as funções são tratadas como cidadãos de primeira classe, o que significa que podem ser manipuladas como qualquer outra entidade de programação. Aprendi sobre funções de alta ordem, closures e funções lambda, que proporcionam flexibilidade e expressividade no código. Utilizei recursos como map, filter e reduce para transformar, filtrar e reduzir sequências de dados. Fiz desafios práticos, como o fatorial recursivo e a imutabilidade, que me permitiram aplicar os conceitos aprendidos.Aprendi sobre generators e a implementação do map. Também enfrentei o desafio do máximo divisor comum (MDC).</h4>
 
 <h2>• Docker para Desenvolvedores (com Docker Swarm e Kubernetes):</h2>
+
+<h3>Seção 1:</h3>
+<h4>- Nesta seção introdutória, aprendi sobre o Docker e suas vantagens, com o Docker, posso criar e executar aplicativos em contêineres leves e portáteis. Ele resolve problemas de dependências e configurações, proporcionando um ambiente consistente para o desenvolvimento. Instalei o Docker no meu sistema operacional Mac e comecei a trabalhar com ele no Visual Studio Code.</h4>
+
+
+<h3>Seção 2:</h3>
+
+<h4>- </h4>
+
+
+
+<h3>Seção 3:</h3>
+
+<h4>- </h4>
+
+
+
+
+<h3>Seção 4:</h3>
+
+<h4>- </h4>
+
+
+
+
+
+<h3>Seção 5:</h3>
+
+<h4>- </h4>
+
+
+
+
+<h3>Seção 2:</h3>
+
+<h4>- </h4>
+
+
+
+
+<h3>Seção 2:</h3>
+
+<h4>- </h4>
+
+
+
+<h3>Seção 2:</h3>
+
+<h4>- </h4>
+
+
+
+<h3>Seção 2:</h3>
+
+<h4>- </h4>
+
+
+
+
+
+<h3>Seção 2:</h3>
+
+<h4>- </h4>
+
