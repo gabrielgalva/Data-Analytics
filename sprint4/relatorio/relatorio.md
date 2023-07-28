@@ -2,7 +2,7 @@
 <h4>- Durante a quarta sprint, dediquei-me aos cursos de Python direcionado para a Programação Funcional, bem como o curso de Docker para Desenvolvedores e Estatística Descritiva com Python, dos dias 24/07 até o dia 07/08. Abaixo relatei o que explorei durante esses cursos. </h4>
 
 
-<h2>• Artigo Sobre Programação Funcional</h2>
+<h2>• Artigo Sobre Programação Funcional:</h2>
 
 - No artigo "Programação funcional: O que é?", aprendi sobre um paradigma de programação fascinante que se concentra na composição de funções puras para desenvolver software. Ao contrário da programação imperativa com a qual estou mais familiarizado, a programação funcional adota uma abordagem declarativa, onde me preocupo com o que precisa ser feito, não com os detalhes de como fazer.
 
@@ -26,7 +26,7 @@
 
 <h2>• Docker para Desenvolvedores (com Docker Swarm e Kubernetes):</h2>
 
-<h3>Seção 1:</h3>
+<h3>- Seção 1:</h3>
 <h4>- Nesta seção introdutória, aprendi sobre o Docker e suas vantagens, com o Docker, posso criar e executar aplicativos em contêineres leves e portáteis. Ele resolve problemas de dependências e configurações, proporcionando um ambiente consistente para o desenvolvimento. Instalei o Docker no meu sistema operacional Mac e comecei a trabalhar com ele no Visual Studio Code.</h4>
 
 
