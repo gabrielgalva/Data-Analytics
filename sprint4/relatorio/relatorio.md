@@ -52,7 +52,7 @@
 
 <h3>- Seção 5:</h3>
 
-<h4>- </h4>
+<h4>- Explorei as networks no Docker, permitindo comunicação entre contêineres e recursos externos. Aprendi sobre tipos de conexão, drivers disponíveis, listagem, criação e remoção de redes. Também conectei contêineres entre si e a redes específicas.</h4>
 
 
 
