@@ -32,9 +32,7 @@
 
 <h3>- Seção 2:</h3>
 
-<h4>- Aprendi sobre os contêineres Docker e sua utilidade. Entendi que eles oferecem ambientes isolados para executar aplicativos de forma consistente em diferentes sistemas,aprendi a diferença entre contêineres e imagens Docker, além de como rodar e interagir com contêineres de forma prática.Descobri como expor portas, parar, reiniciar e remover contêineres conforme necessário, também aprendi a acessar logs e definir nomes personalizados para os contêineres.
-</h4>
-
+<h4>- Aprendi sobre os contêineres Docker e sua utilidade. Entendi que eles oferecem ambientes isolados para executar aplicativos de forma consistente em diferentes sistemas,aprendi a diferença entre contêineres e imagens Docker, além de como rodar e interagir com contêineres de forma prática.Descobri como expor portas, parar, reiniciar e remover contêineres conforme necessário, também aprendi a acessar logs e definir nomes personalizados para os contêineres.</h4>
 
 
 <h3>- Seção 3:</h3>
@@ -42,12 +40,9 @@
 <h4>- Aprendi sobre imagens Docker, sua importância e como utilizá-las. Compreendi que as imagens são modelos para criar e executar contêineres, oferecendo portabilidade e facilidade de distribuição. Aprendi a escolher imagens adequadas, criar imagens personalizadas com o Dockerfile e executar contêineres a partir delas. Descobri como fazer o download de imagens prontas do Docker Hub e gerenciar imagens e contêineres de forma eficiente. Além disso, aprendi a autenticar-me no Docker Hub e compartilhar minhas imagens com a comunidade.</h4>
 
 
-
-
 <h3>- Seção 4:</h3>
 
 <h4>- Pude entender a importância dos volumes para manter meus dados de forma persistente em contêineres. Aprendi sobre diversos tipos de volumes, como os anônimos e nomeados, além de utilizar os bind mounts para compartilhar dados com o sistema host. Com esses conhecimentos, agora consigo criar, listar, inspecionar e remover volumes conforme necessário, além de configurá-los como somente leitura para proteger meus dados importantes.</h4>
-
 
 
 <h3>- Seção 5:</h3>
@@ -55,30 +50,24 @@
 <h4>- Explorei as networks no Docker, permitindo comunicação entre contêineres e recursos externos. Aprendi sobre tipos de conexão, drivers disponíveis, listagem, criação e remoção de redes. Também conectei contêineres entre si e a redes específicas.</h4>
 
 
-
 <h3>- Seção 6:</h3>
 
-<h4>- </h4>
-
-
+<h4>- Estudei sobre YAML, um formato legível para representar dados. Compreendi como criar e organizar informações numéricas, strings, valores nulos, booleanos, listas e dicionários no YAML. </h4>
 
 
 <h3>- Seção 7:</h3>
 
-<h4>- </h4>
-
+<h4>- Conheci o Docker Compose, uma ferramenta poderosa para gerenciar aplicativos Docker com múltiplos contêineres. Através de arquivos YAML, pude configurar e executar serviços de forma simples. Aprendi sobre variáveis de ambiente, redes, criação de ambientes de projeto e o uso de volumes bind mount. O Docker Compose se tornou essencial para simplificar o gerenciamento de ambientes complexos em meus projetos com contêineres Docker.</h4>
 
 
 <h3>- Seção 8:</h3>
 
-<h4>- </h4>
-
+<h4>- Nesta seção, explorei o Docker Swarm, uma solução para orquestração de containers, configurei o Swarm, adicionei e removi nós, subi e verifiquei serviços, além de escalonar aplicativos e atualizar imagens. Também utilizei o Docker Compose no Swarm e criei redes para os serviços. Esses conhecimentos me permitem gerenciar aplicativos em ambientes com múltiplos containers usando o Docker Swarm.</h4>
 
 
 <h3>- Seção 9:</h3>
 
-<h4>- </h4>
-
+<h4>- Conheci o Kubernetes, uma plataforma de orquestração de contêineres. Aprendi a instalar e configurar o Kubernetes. Explorei conceitos como Deployments e Services para gerenciar aplicações, utilizei arquivos YAML no modo declarativo para criar, escalar e atualizar aplicações.</h4>
 
 
 <h3>- Seção 10:</h3>
