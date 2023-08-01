@@ -6,7 +6,7 @@ def ler_csv(arquivo):
     estudantes = []
 
     with open (arquivo, 'r') as arq:
-         for linha in arq:
+             for linha in arq:
              linha = linha.strip().split(',')
              nome = linha[0]
              notas = list(map(int, linha[1:]))
