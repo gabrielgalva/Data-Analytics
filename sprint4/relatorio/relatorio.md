@@ -78,7 +78,7 @@
 <h2>• Estatística Descritiva com Python:</h2>
 
 <h3>- Seção 1:</h3>
-<h4>- </h4>
+<h4>- Na primeira seção do curso, aprendi sobre a importância da estatística para a ciência de dados e como suas técnicas são fundamentais para a análise de dados e tomada de decisões informadas. Entendi como o Python se destaca como uma linguagem poderosa para essas análises.</h4>
 
 
 <h3>- Seção 2:</h3>
@@ -86,27 +86,29 @@
 
 
 <h3>- Seção 3:</h3>
-<h4>- </h4>
+<h4>- Compreendi a relevância da aleatoriedade na estatística, essencial para análises precisas. Entendi as distinções entre população e amostra, bem como a seleção adequada de medidas para variáveis. Aprendi a obter amostras com Python, facilitando o trabalho com dados complexos.</h4>
 
 
 <h3>- Seção 4:</h3>
-<h4>- </h4>
+<h4>- Explorei a relevância dos gráficos como ferramentas essenciais na visualização de dados. Adquiri habilidades para criar gráficos de barras, setores, linhas e histogramas usando Python. </h4>
 
 
 <h3>- Seção 5:</h3>
-<h4>- </h4>
+<h4>- Pude explorar medidas de tendência central, como a média, moda e mediana, e entender sua importância na análise de dados. Utilizei Python para calcular essas medidas e aprendi sobre as medidas separatrizes, que permitem dividir os dados em partes iguais. A função "describe()" no Python foi uma ferramenta útil para obter um resumo estatístico completo dos dados. Além disso, aprendi a plotar gráficos para visualizar essas medidas de forma mais clara e compreensível.</h4>
 
 
 <h3>- Seção 6:</h3>
-<h4>- </h4>
+<h4>- Nesta seção, abordei medidas de dispersão, como amplitude total, amplitude interquartílica, desvio médio, variância, desvio padrão e coeficiente de variação. Utilizei Python para calcular essas medidas e entendi como avaliar a variabilidade dos dados.</h4>
 
 
 <h3>- Seção 7:</h3>
-<h4>- </h4>
+<h4>- Estudei sobre medidas de assimetria, que ajudam a avaliar se a distribuição dos dados é simétrica, assimétrica positiva ou assimétrica negativa. As medidas de curtose também foram abordadas, permitindo identificar a forma da distribuição em relação à sua concentração de dados.
+
+Além disso, entendi o conceito de Boxplot, uma ferramenta visual poderosa para representar as medidas estatísticas básicas de um conjunto de dados. Com Python, fui capaz de criar Boxplots e analisar rapidamente a distribuição dos dados, identificando valores discrepantes e visualizando a dispersão dos dados.</h4>
 
 
 <h3>- Seção 8:</h3>
-<h4>- </h4>
+<h4>- Relembrei o Método de Monte Carlo (MMC), uma técnica de simulação estatística com números aleatórios. Aprendi sua aplicação em problemas complexos, e também explorei a estatística descritiva nos dados do Titanic e em preços de ativos financeiros.</h4>
 
 
 <h3>- Seção 9:</h3>
