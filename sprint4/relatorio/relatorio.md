@@ -71,8 +71,8 @@
 
 
 <h3>- Seção 10:</h3>
-
-<h4>- </h4>
+<h4>(Seção extra)</h4>
+<h4>- Revisei os comandos básicos do terminal Linux, como "cd", "ls", "clear", "cat", "touch" e "man". Mesmo que já os conhecesse, essa revisão fortaleceu minha confiança em aplicá-los de forma mais eficiente.</h4>
 
 
 <h2>• Estatística Descritiva com Python:</h2>
@@ -81,7 +81,8 @@
 <h4>- Na primeira seção do curso, aprendi sobre a importância da estatística para a ciência de dados e como suas técnicas são fundamentais para a análise de dados e tomada de decisões informadas. Entendi como o Python se destaca como uma linguagem poderosa para essas análises.</h4>
 
 
-<h3>- Seção 2:</h3> <h4>(Seção extra)</h4>
+<h3>- Seção 2:</h3> 
+<h4>(Seção extra)</h4>
 <h4>- Nessa seção extra revisei conceitos fundamentais em Python. Foi uma ótima revisão, onde pude consolidar meu conhecimento sobre a importação de bibliotecas, tipos de variáveis, operações matemáticas, comparações e operações booleanas, bem como condicionais, listas, tuplas, strings, dicionários, conjuntos, funções e loops.</h4>
 
 
@@ -110,9 +111,6 @@ Além disso, entendi o conceito de Boxplot, uma ferramenta visual poderosa para 
 <h3>- Seção 8:</h3>
 <h4>- Relembrei o Método de Monte Carlo (MMC), uma técnica de simulação estatística com números aleatórios. Aprendi sua aplicação em problemas complexos, e também explorei a estatística descritiva nos dados do Titanic e em preços de ativos financeiros.</h4>
 
-
-<h3>- Seção 9:</h3>
-<h4>- </h4>
 
 
 
