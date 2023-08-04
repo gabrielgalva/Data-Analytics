@@ -1,5 +1,5 @@
 <h1>- Sprint 4:</h1>
-<h4>- Durante a quarta sprint, dediquei-me aos cursos de Python direcionado para a Programação Funcional, bem como o curso de Docker para Desenvolvedores e Estatística Descritiva com Python, dos dias 24/07 até o dia 07/08. Abaixo relatei o que explorei durante esses cursos. </h4>
+<h4>- Durante a quarta sprint, dediquei-me aos cursos de Python direcionado para a Programação Funcional com um adicional de um artigo sobre Programação Funcional, bem como o curso de Docker para Desenvolvedores e Estatística Descritiva com Python, dos dias 24/07 até o dia 07/08. Abaixo relatei o que explorei durante esses cursos. </h4>
 
 
 <h2>• Artigo Sobre Programação Funcional:</h2>
