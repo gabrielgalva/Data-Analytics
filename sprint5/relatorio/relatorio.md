@@ -1,5 +1,5 @@
 <h1>- Sprint 5:</h1>
-- Durante a quinta sprint, dediquei-me aos cursos de ,dos dias 07/08 até o dia 21/08. Abaixo relatei o que explorei durante esses cursos. 
+- Durante a quinta sprint, dediquei-me aos cursos de Sales Accreditation,Cloud Practitioner,Cloud Economics Accreditation,Accreditation (Technical) e ao um game muito interessante o AWS Cloud Quest: Cloud Practitioner. Dos dias 07/08 até o dia 21/08, abaixo relatei o que explorei durante esses cursos. 
 
 
 <h2>• AWS Partner: Sales Accreditation (Business):</h2>
