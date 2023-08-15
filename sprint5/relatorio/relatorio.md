@@ -30,6 +30,70 @@
 <h4>- No ultimo módulo foi mais uma revisão, recapitulei os pontos-chave que absorvi ao longo dessa jornada de aprendizado, e no final enfrentei o teste de credenciamento.</h4>
 
 
+<h2>• Cloud Quest: Cloud Practitioner</h2>
+<h4>- Participei de uma aventura de aprendizado baseada em interpretação de papéis, mergulhando em uma jornada de desenvolvimento de habilidades práticas na nuvem. Através de uma combinação envolvente de atividades interativas e práticas. Resolvi problemas ao longo da cidade virtual Cloud Quest, completando exercícios de aprendizado como laboratórios, questionários e quebra-cabeças, ao completar todo o jogo consegui conquistar um distintivo digital. </h4>
+
+<h2>• Módulos:</h2>
+
+- Essenciais de Computação em Nuvem - Amazon S3
+Neste módulo, mergulhei nos fundamentos da computação em nuvem e aprendi sobre o serviço Amazon S3, explorando suas capacidades de armazenamento seguro e escalável.
+
+- Primeiros Passos na Nuvem - Amazon EC2
+Aqui, adquiri conhecimentos sobre a criação e gerenciamento de instâncias virtuais na AWS, usando o Amazon EC2 para executar aplicativos e serviços.
+
+- Soluções de Computação - Amazon EC2, Amazon VPC
+Aprofundei-me em soluções de computação, explorando o Amazon EC2 e o Amazon VPC para criar ambientes de rede isolados e escaláveis.
+
+- Economia na Nuvem - Amazon EC2, Calculadora de Preços AWS
+Descobri como otimizar custos na nuvem, aprendendo a usar o Amazon EC2 e a Calculadora de Preços AWS para planejar recursos de maneira econômica.
+
+- Conceitos de Redes - Amazon VPC, Amazon EC2
+Explorei conceitos essenciais de redes em ambientes de nuvem, utilizando o Amazon VPC e o Amazon EC2 para configurar e conectar redes.
+
+- Bancos de Dados na Prática - Amazon Relational Database Service (RDS)
+Aprendi a implementar e gerenciar bancos de dados usando o Amazon RDS, entendendo como armazenar dados de maneira eficiente e confiável.
+
+- Conectando VPCs - Amazon EC2, Amazon VPC
+Mergulhei no mundo das redes virtuais privadas (VPCs), conectando-as com eficiência por meio do Amazon EC2 e do Amazon VPC.
+
+- Primeiro Banco de Dados NoSQL - Amazon DynamoDB
+Explorei a tecnologia NoSQL com o Amazon DynamoDB, compreendendo como projetar e operar bancos de dados não relacionais.
+
+- Conceitos Principais de Segurança - Amazon EC2, Amazon RDS, AWS Identity and Access Management (IAM)
+Aprofundei-me em princípios de segurança, aprendendo a proteger recursos usando Amazon EC2, Amazon RDS e IAM.
+
+- Sistemas de Arquivos na Nuvem - Amazon EC2, Amazon Elastic File System
+Descobri como implementar e gerenciar sistemas de arquivos na nuvem, usando o Amazon EC2 e o Amazon EFS para compartilhar dados de maneira escalável.
+
+- Aplicações com Auto-recuperação e Dimensionamento Automático - Amazon EC2, Amazon EC2 Auto Scaling
+Aprendi a criar aplicativos resilientes, utilizando o Amazon EC2 e o dimensionamento automático para garantir disponibilidade contínua.
+
+- Aplicações Web Altamente Disponíveis - Amazon S3, Amazon EC2, Amazon EC2 Auto Scaling, Elastic Load Balancing (ELB)
+Explorei a criação de aplicativos web altamente disponíveis, utilizando uma combinação de serviços como Amazon S3, Amazon EC2, EC2 Auto Scaling e ELB.
+
+
+
+
+
+
+
+
+
+<h2>• </h2>
+<h4>- </h4>
+
+<h2>• </h2>
+<h4>- </h4>
+
+
+<h2>• </h2>
+<h4>- </h4>
+
+
+<h2>• </h2>
+<h4>- </h4>
+
+
 <h2>• </h2>
 <h4>- </h4>
 
