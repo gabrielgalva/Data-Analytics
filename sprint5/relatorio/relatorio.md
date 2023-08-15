@@ -7,7 +7,7 @@
 
 
 <h2>• Módulo 0:</h2>
-<h4>- Iniciei o curso "Vendas para AWS Partners". Fiquei animado ao obter uma visão antecipada do que me aguardava nos próximos módulos.</h4>
+<h4>- Iniciei o curso "Vendas para AWS Partners" , fiquei animado ao obter uma visão antecipada do que me aguardava nos próximos módulos.</h4>
 
 
 <h2>• Módulo 1: Conceitos de nuvem e serviços da AWS</h2>
@@ -69,6 +69,7 @@ Descobri como implementar e gerenciar sistemas de arquivos na nuvem, usando o Am
 Aprendi a criar aplicativos resilientes, utilizando o Amazon EC2 e o dimensionamento automático para garantir disponibilidade contínua.
 
 - Aplicações Web Altamente Disponíveis - Amazon S3, Amazon EC2, Amazon EC2 Auto Scaling, Elastic Load Balancing (ELB)
+
 Explorei a criação de aplicativos web altamente disponíveis, utilizando uma combinação de serviços como Amazon S3, Amazon EC2, EC2 Auto Scaling e ELB.
 
 
