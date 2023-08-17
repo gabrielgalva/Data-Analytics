@@ -149,7 +149,7 @@ Conheci a ferramenta MPA e suas aplicações. Compreendi quem deve utilizar essa
 Neste último módulo, descobri como a ferramenta MPA pode ser usada para adicionar e manipular dados, realizando análises de economia. Aprendi como essa ferramenta pode auxiliar na avaliação de custos e na tomada de decisões financeiramente conscientes ao migrar para a nuvem, e no fim realizei uma avaliação.
 
 
-<h2>• </h2>
+<h2>• Exam Prep: AWS Certified Cloud Practitioner </h2>
 
 
 <h2>• </h2>
