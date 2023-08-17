@@ -2,11 +2,11 @@
 - Durante a quinta sprint, dediquei-me aos cursos de Sales Accreditation,Cloud Practitioner,Cloud Economics Accreditation,Accreditation (Technical) e ao um game muito interessante o AWS Cloud Quest: Cloud Practitioner. Dos dias 07/08 até o dia 21/08, abaixo relatei o que explorei durante esses cursos. 
 
 
-<h2>• AWS Partner: Sales Accreditation (Business):</h2>
+<h2>• AWS Partner: Sales Accreditation (Business)</h2>
 - O curso "Vendas para AWS Partners" é uma série introdutória de cursos projetada para ajudar os parceiros da Amazon Web Services (AWS) a compreender e comunicar efetivamente a proposta de valor da AWS. O curso abrange uma variedade de tópicos relevantes para vendas na nuvem e colaboração com a AWS. Abaixo fiz um resumo dos principais tópicos abordados em cada módulo:
 
 
-<h2>• Módulo 0:</h2>
+<h2>• Módulo 0</h2>
 - Iniciei o curso "Vendas para AWS Partners" , fiquei animado ao obter uma visão antecipada do que me aguardava nos próximos módulos.
 
 
@@ -84,31 +84,72 @@ Aprendi a criar aplicativos resilientes, utilizando o Amazon EC2 e o dimensionam
 Explorei a criação de aplicativos web altamente disponíveis, utilizando uma combinação de serviços como Amazon S3, Amazon EC2, EC2 Auto Scaling e ELB.
 
 
+<h2>• AWS Partner: Accreditation (Technical):</h2>
 
 
+<h2>• Módulo 1: Visão Geral do Curso</h2>
+No primeiro módulo do curso "AWS Partner: Accreditation (Technical)", fui introduzido ao mundo da computação em nuvem da Amazon Web Services (AWS). Conheci o curso, e comecei a entender os conceitos fundamentais que seriam explorados nas próximas etapas.
 
 
+<h2>• Módulo 2: Introdução às Tecnologias Essenciais da AWS</h2>
+Estudei tecnologias essenciais da AWS. Aprendi sobre os benefícios da computação em nuvem e explorei a infraestrutura global da AWS, que oferece suporte a uma variedade de necessidades empresariais. Conheci as principais tecnologias, incluindo computação, armazenamento, bancos de dados, redes e segurança, entendendo como elas se integram para formar a base de soluções na nuvem.
 
+
+<h2>• Módulo 3: De Serviços a Soluções</h2>
+Aprofundei-me na transformação de serviços individuais em soluções abrangentes. Explorei estratégias de migração, práticas recomendadas de arquitetura e como abordar os desafios dos clientes. Através de estudos de caso, desenvolvi habilidades para criar soluções sólidas que atendam aos requisitos empresariais.
+
+
+<h2>• Módulo 4: Apresentação das Soluções da AWS aos Clientes</h2>
+Neste módulo, estudei sobre como apresentar as soluções da AWS aos clientes de maneira eficaz. Aprendi sobre técnicas de sondagem, práticas recomendadas para reuniões com clientes e como fornecer provas de conceito convincentes.
+
+
+<h2>• Módulo 5: Próximos Passos</h2>
+Explorei o planejamento de migração e modernização, compreendendo como aplicar os conhecimentos adquiridos em cenários do mundo real.
+
+
+<h2>• Módulo 6: Recursos da Rede de Parceiros da AWS</h2>
+Descobri os recursos valiosos disponíveis na rede de parceiros da AWS. Aprendi como aproveitar esses recursos para continuar aprendendo e aprimorando minhas habilidades na nuvem da AWS, demonstrando a importância de estar conectado a uma comunidade de profissionais.
+
+
+<h2>• Módulo 7: Resumo do Curso</h2>
+Em resumo, o curso "AWS Partner: Accreditation (Technical)" proporcionou uma imersão profunda no mundo da computação em nuvem da AWS, desde os conceitos básicos até as estratégias avançadas de apresentação de soluções aos clientes.
+
+
+<h2>• AWS Partner: Cloud Economics Accreditation</h2>
+
+<h2>• Módulo 1: Introdução ao Valor Empresarial</h2>
+No primeiro módulo do curso "Aspectos Econômicos da Nuvem AWS", explorei o Cloud Value Framework (Estrutura de Valor da Nuvem) e compreendi como a computação em nuvem pode impactar a economia de custos, produtividade da equipe, resiliência operacional e agilidade empresarial. Este módulo estabeleceu as bases para entender como a migração para a nuvem pode trazer benefícios significativos para as organizações.
+
+
+<h2>• Módulo 2: Noções Básicas de Economia de Custos</h2>
+Aprofundei-me nas razões pelas quais a economia de custos é crucial e como a AWS oferece redução de custos. Explorei os desafios enfrentados pelos clientes durante a migração para a nuvem e como superá-los para alcançar economias efetivas.
+
+
+<h2>• Módulo 3: Produtividade da Equipe</h2>
+Aprendi a quantificar o impacto da AWS na produtividade da equipe, em comparação com as abordagens tradicionais de TI. Por meio de exemplos reais de clientes, compreendi como a computação em nuvem pode aprimorar a eficiência da equipe e impulsionar os resultados dos negócios.
+
+
+<h2>• Módulo 4: Resiliência Operacional</h2>
+Explorei as quatro principais áreas de resiliência operacional e como a AWS oferece benefícios substanciais nesse aspecto. Compreendi as causas e impactos do tempo de inatividade e como a AWS atenua falhas operacionais. Exemplos práticos de clientes destacaram como a resiliência operacional pode ser aprimorada na nuvem.
+
+
+<h2>• Módulo 5: Agilidade Empresarial</h2>
+Neste módulo, foquei nos principais indicadores de desempenho usados para medir a agilidade empresarial. Aprendi como a agilidade pode levar a inovações com menor risco e custo, e explorei exemplos concretos de clientes que experimentaram esses benefícios ao migrar para a nuvem.
+
+
+<h2>• Módulo 6: Gerenciamento Financeiro da Nuvem</h2>
+Mergulhei nas quatro áreas principais do gerenciamento financeiro da nuvem: medição e responsabilidade, otimização de custos, planejamento e previsão, e operações financeiras da nuvem. Entendi como esses aspectos se combinam para fornecer uma visão abrangente e eficaz do aspecto financeiro da migração para a nuvem.
+
+
+<h2>• Módulo 7: Introdução à Ferramenta Migration Portfolio Assessment (MPA)</h2>
+Conheci a ferramenta MPA e suas aplicações. Compreendi quem deve utilizar essa ferramenta, quando e como ela deve ser usada, e como acessá-la para avaliar portfólios de migração.
+
+
+<h2>• Módulo 8: Economia de Custos com a Ferramenta MPA</h2>
+Neste último módulo, descobri como a ferramenta MPA pode ser usada para adicionar e manipular dados, realizando análises de economia. Aprendi como essa ferramenta pode auxiliar na avaliação de custos e na tomada de decisões financeiramente conscientes ao migrar para a nuvem, e no fim realizei uma avaliação.
 
 
 <h2>• </h2>
-<h4>- </h4>
-
-<h2>• </h2>
-<h4>- </h4>
 
 
 <h2>• </h2>
-<h4>- </h4>
-
-
-<h2>• </h2>
-<h4>- </h4>
-
-
-<h2>• </h2>
-<h4>- </h4>
-
-
-<h2>• </h2>
-<h4>- </h4>
