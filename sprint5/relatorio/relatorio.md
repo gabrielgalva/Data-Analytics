@@ -152,4 +152,17 @@ Neste último módulo, descobri como a ferramenta MPA pode ser usada para adicio
 <h2>• Exam Prep: AWS Certified Cloud Practitioner </h2>
 
 
-<h2>• </h2>
+<h2>• Módulo 1: Conceitos de Nuvem</h2>
+No início deste curso fundamental da Amazon Web Services (AWS), fui apresentado aos conceitos essenciais da nuvem. Compreendi a definição da AWS como uma plataforma de nuvem e explorei seus benefícios, incluindo a capacidade de focar no valor comercial. Aprendi sobre os aspectos econômicos da nuvem, como a proposta de custo total de propriedade e como as operações podem ser otimizadas para reduzir os custos.
+
+
+<h2>• Módulo 2: Segurança e Conformidade</h2>
+Neste módulo, concentrei-me na segurança e conformidade na nuvem AWS. Entendi o modelo de responsabilidade compartilhada da AWS, onde a responsabilidade do cliente e da AWS se sobrepõem. Aprofundei-me em conceitos de segurança e conformidade, descobrindo onde encontrar informações relevantes. Compreendi a importância da criptografia, auditoria e relatórios, bem como a aplicação de princípios de acesso com menor privilégio.
+
+<h2>• Módulo 3: Tecnologia</h2>
+Explorando o módulo sobre tecnologia, aprendi sobre os métodos de implantação e operação na nuvem AWS. Identifiquei diferentes formas de provisionamento e operações, além de modelos de implantação e opções de conectividade. Aprofundei-me na infraestrutura global da AWS, compreendendo as relações entre Regiões, Zonas de Disponibilidade e locais de borda. Também destaquei os principais serviços da AWS em categorias como computação, armazenamento, rede e banco de dados.
+
+<h2>• Módulo 4: Cobrança e Preços</h2>
+No último módulo, concentrei-me em aspectos de cobrança e preços na AWS. Comparei diferentes modelos de preços, como instâncias on-demand, reservadas e spot, e compreendi quando cada opção é mais vantajosa. Também reconheci a importância das estruturas de conta para a alocação de custos em diferentes departamentos. Além disso, identifiquei recursos de suporte para questões de cobrança, como encontrar informações de preços nos serviços da AWS e como as tags podem ser usadas para alocar custos.
+
+À medida que completei cada módulo, ganhei uma compreensão sólida dos conceitos necessários para o exame AWS Certified Cloud Practitioner. Aprendi a interpretar e aplicar os tópicos-chave, entendendo como eles se relacionam com as funções de um profissional de cloud practitioner na AWS. Estou entusiasmado para utilizar esses conhecimentos em minha preparação para a certificação e em futuras oportunidades de trabalho na nuvem.
