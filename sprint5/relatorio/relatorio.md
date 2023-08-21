@@ -153,7 +153,7 @@ Neste último módulo, descobri como a ferramenta MPA pode ser usada para adicio
 
 
 <h2>• Módulo 1: Conceitos de Nuvem</h2>
-No início deste curso fundamental da Amazon Web Services (AWS), fui apresentado aos conceitos essenciais da nuvem. Compreendi a definição da AWS como uma plataforma de nuvem e explorei seus benefícios, incluindo a capacidade de focar no valor comercial. Aprendi sobre os aspectos econômicos da nuvem, como a proposta de custo total de propriedade e como as operações podem ser otimizadas para reduzir os custos.
+No início deste curso fundamental da Amazon Web Services (AWS), fui apresentado aos conceitos essenciais da nuvem. Revisei a definição da AWS como uma plataforma de nuvem e explorei seus benefícios, incluindo a capacidade de focar no valor comercial.
 
 
 <h2>• Módulo 2: Segurança e Conformidade</h2>
