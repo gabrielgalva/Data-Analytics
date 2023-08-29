@@ -1,6 +1,9 @@
 <h1>- Sprint 6:</h1>
-
-
+AWS Partner: Sales Accreditation (Business) (Portuguese)
+AWS Partner: Data Analytics on AWS (Business) (Portuguese)
+Introduction to Amazon Kinesis Streams
+Introduction to Amazon Kinesis Analytics (Portuguese)
+Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)
 
 <h2>• AWS Partner: Sales Accreditation (Business) (Portuguese)</h2>
 
@@ -47,3 +50,16 @@ Aprendi como essas soluções podem ajudar as empresas a coletar, armazenar, pro
 <h2>• Módulo 4: Estratégias de Entrada no Mercado para Parceiros</h2>
 - No quarto módulo, aprendi sobre as estratégias de entrada no mercado para parceiros que desejam oferecer soluções de análise de dados da AWS. Aprendi sobre planos e recursos para ingressar no mercado e engajar clientes.
 
+
+<h2>• Introduction to Amazon Kinesis Streams</h2>
+
+Aprendi sobre o Amazon Kinesis Streams, um serviço sem servidor que facilita a captura, o processamento e o armazenamento de grandes quantidades de dados de streaming em tempo real, os componentes do Kinesis Streams incluem streams, shards e a Kinesis Data Streams API.E pude assistir a uma demonstração de como usar o Kinesis Streams para coletar, processar e analisar dados de streaming em tempo real.
+
+
+<h2>• Introduction to Amazon Kinesis Analytics (Portuguese)</h2>
+Neste curso revisei sobre o Amazon Kinesis Analytics, um serviço totalmente gerenciado que facilita a coleta, o processamento e a análise de dados de streaming em tempo real, e aprendi que o Kinesis Analytics usa SQL para consultar dados de streaming e que é um serviço poderoso que pode ser usado para uma ampla gama de casos de uso.
+
+
+<h2>• Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)</h2>
+
+Aprendi sobre o Amazon EMR, um serviço totalmente gerenciado que facilita a criação e o gerenciamento de clusters de Hadoop e Spark. Aprendi que o EMR pode ser usado para uma ampla gama de casos de uso, desde processamento de dados de log até machine learning.Fiquei surpreso com a variedade de ferramentas e recursos disponíveis, e achei a demonstração particularmente útil.
