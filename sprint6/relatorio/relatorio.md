@@ -81,3 +81,17 @@ A seguir, o curso discutiu os benefícios do uso do Amazon QuickSight. Aprendi q
 - Melhorar a eficiência e a produtividade.
 - Aumentar a satisfação do cliente.
 No fim teve uma demonstração do Amazon QuickSight. A demonstração mostrou como usar o serviço para criar visualizações, executar análises ad-hoc e compartilhar insights com outras pessoas.
+
+
+<h2>• Introduction to AWS IoT Analytics</h2>
+No curso conheci o AWS IoT Analytics é um serviço totalmente gerenciado que permite executar análises sofisticadas em grandes volumes de dados de IoT. Ele pode ser usado para uma variedade de casos de uso, incluindo monitoramento de dispositivos IoT, análise de tendências, prevenção de fraudes e otimização de processos.
+
+O AWS IoT Analytics é composto por quatro componentes principais:
+
+Coletor: O coletor coleta dados de dispositivos IoT e os armazena no Amazon S3.
+Ingestão: O ingestão processa os dados do Amazon S3 e os prepara para análise.
+Visualização: A visualização permite criar visualizações dos dados para análise.
+Armazenamento: O armazenamento permite armazenar os dados para análise futura.
+
+
+<h2>• Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)</h2>
