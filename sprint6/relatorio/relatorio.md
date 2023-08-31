@@ -63,3 +63,12 @@ Neste curso revisei sobre o Amazon Kinesis Analytics, um serviço totalmente ger
 <h2>• Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)</h2>
 
 Aprendi sobre o Amazon EMR, um serviço totalmente gerenciado que facilita a criação e o gerenciamento de clusters de Hadoop e Spark. Aprendi que o EMR pode ser usado para uma ampla gama de casos de uso, desde processamento de dados de log até machine learning.Fiquei surpreso com a variedade de ferramentas e recursos disponíveis, e achei a demonstração particularmente útil.
+
+
+<h2>• Introduction to Amazon Athena (Portuguese)</h2>
+
+Assisti o curso sobre o Amazon Athena, um serviço de análise de dados sem servidor que permite executar consultas SQL em dados armazenados no Amazon S3.O curso começou com uma visão geral do Amazon Athena, aprendi que ele é um serviço totalmente gerenciado, o que significa que eu não preciso me preocupar com a configuração ou a manutenção de nenhum hardware ou software.
+
+A seguir, o curso discutiu as etapas básicas de implementação do Amazon Athena. Aprendi que eu preciso criar um banco de dados Athena, um bucket S3 para armazenar meus dados e um conjunto de dados Athena. Também aprendi como gerenciar usuários e permissões do Amazon Athena.
+
+No fim do curso ele realiza uma breve demonstração da criação de um banco de dados para executar consultas SQL para validação. Aprendi como usar o Console de Gerenciamento da AWS para criar um banco de dados e um conjunto de dados e, em seguida, executar uma consulta SQL simples.
