@@ -72,3 +72,12 @@ Assisti o curso sobre o Amazon Athena, um serviço de análise de dados sem serv
 A seguir, o curso discutiu as etapas básicas de implementação do Amazon Athena. Aprendi que eu preciso criar um banco de dados Athena, um bucket S3 para armazenar meus dados e um conjunto de dados Athena. Também aprendi como gerenciar usuários e permissões do Amazon Athena.
 
 No fim do curso ele realiza uma breve demonstração da criação de um banco de dados para executar consultas SQL para validação. Aprendi como usar o Console de Gerenciamento da AWS para criar um banco de dados e um conjunto de dados e, em seguida, executar uma consulta SQL simples.
+
+<h2>• Introduction to Amazon Quicksight (Portuguese)</h2>
+O Amazon QuickSight, é um serviço de análise de dados de negócios baseado na nuvem, o curso começou com uma visão geral do Amazon QuickSight. Aprendi que ele é um serviço totalmente gerenciado que permite criar visualizações, executar análises ad-hoc e obter insights a partir de dados armazenados em qualquer lugar.
+
+A seguir, o curso discutiu os benefícios do uso do Amazon QuickSight. Aprendi que ele pode ajudar as empresas a:
+- Tomar decisões mais informadas com base em dados.
+- Melhorar a eficiência e a produtividade.
+- Aumentar a satisfação do cliente.
+No fim teve uma demonstração do Amazon QuickSight. A demonstração mostrou como usar o serviço para criar visualizações, executar análises ad-hoc e compartilhar insights com outras pessoas.
