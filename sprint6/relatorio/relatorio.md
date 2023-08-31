@@ -99,3 +99,4 @@ Armazenamento: O armazenamento permite armazenar os dados para análise futura.
 
 
 <h2>• Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)</h2>
+Explorei o processamento de streaming e suas estratégias para enfrentar desafios ao consultar dados em tempo real. Entendi semânticas de tempo, garantias de processamento e como lidar com reordenação e chegada tardia de eventos. Aprendi sobre gerenciar estado em mecanismos de streaming e seu impacto na arquitetura. 
