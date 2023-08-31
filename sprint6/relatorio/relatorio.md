@@ -4,6 +4,10 @@ AWS Partner: Data Analytics on AWS (Business) (Portuguese)
 Introduction to Amazon Kinesis Streams
 Introduction to Amazon Kinesis Analytics (Portuguese)
 Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)
+Introduction to Amazon Athena (Portuguese)
+Introduction to Amazon Quicksight 
+Introduction to AWS IoT Analytics
+Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)
 
 <h2>• AWS Partner: Sales Accreditation (Business) (Portuguese)</h2>
 
