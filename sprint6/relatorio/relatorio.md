@@ -2,29 +2,29 @@
 - Dos dias 21/08 até o dia 04/09, dediquei-me a sexta sprint, abaixo listei cada curso e relatei o que explorei durante esses cursos. 
 
 
-AWS Partner: Sales Accreditation (Business) (Portuguese)
+AWS Partner: Sales Accreditation (Business) (Portuguese).
 
-AWS Partner: Data Analytics on AWS (Business) (Portuguese)
+AWS Partner: Data Analytics on AWS (Business) (Portuguese).
 
-Introduction to Amazon Kinesis Streams
+Introduction to Amazon Kinesis Streams.
 
-Introduction to Amazon Kinesis Analytics (Portuguese)
+Introduction to Amazon Kinesis Analytics (Portuguese).
 
-Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)
+Introduction to Amazon Elastic MapReduce (EMR) (Portuguese).
 
-Introduction to Amazon Athena (Portuguese)
+Introduction to Amazon Athena (Portuguese).
 
-Introduction to Amazon Quicksight 
+Introduction to Amazon Quicksight. 
 
-Introduction to AWS IoT Analytics
+Introduction to AWS IoT Analytics.
 
-Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)
+Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese).
 
-Best Practices for Data Warehousing with Amazon Redshift 
+Best Practices for Data Warehousing with Amazon Redshift. 
 
-Serverless Analytics (Portuguese)
+Serverless Analytics (Portuguese).
 
-Why Analytics for Games (Portuguese)
+Why Analytics for Games (Portuguese).
 
 <h2>• AWS Partner: Sales Accreditation (Business) (Portuguese)</h2>
 
