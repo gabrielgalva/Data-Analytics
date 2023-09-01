@@ -1,8 +1,6 @@
 <h1>- Sprint 6:</h1>
 - Dos dias 21/08 até o dia 04/09, dediquei-me a sexta sprint, abaixo listei cada curso e relatei o que explorei durante esses cursos. 
-
-
-
+<br>
 AWS Partner: Sales Accreditation (Business) (Portuguese).
 
 AWS Partner: Data Analytics on AWS (Business) (Portuguese).
