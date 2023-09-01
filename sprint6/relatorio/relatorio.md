@@ -1,4 +1,7 @@
 <h1>- Sprint 6:</h1>
+- Dos dias 21/08 até o dia 04/09, dediquei-me a sexta sprint, abaixo listei cada curso e relatei o que explorei durante esses cursos. 
+
+
 AWS Partner: Sales Accreditation (Business) (Portuguese)
 AWS Partner: Data Analytics on AWS (Business) (Portuguese)
 Introduction to Amazon Kinesis Streams
@@ -8,6 +11,9 @@ Introduction to Amazon Athena (Portuguese)
 Introduction to Amazon Quicksight 
 Introduction to AWS IoT Analytics
 Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)
+Best Practices for Data Warehousing with Amazon Redshift 
+Serverless Analytics (Portuguese)
+ Why Analytics for Games (Portuguese)
 
 <h2>• AWS Partner: Sales Accreditation (Business) (Portuguese)</h2>
 
@@ -100,3 +106,18 @@ Armazenamento: O armazenamento permite armazenar os dados para análise futura.
 
 <h2>• Deep Dive into Concepts and Tools for Analyzing Streaming Data (Portuguese)</h2>
 Explorei o processamento de streaming e suas estratégias para enfrentar desafios ao consultar dados em tempo real. Entendi semânticas de tempo, garantias de processamento e como lidar com reordenação e chegada tardia de eventos. Aprendi sobre gerenciar estado em mecanismos de streaming e seu impacto na arquitetura. 
+
+<h2>• Best Practices for Data Warehousing with Amazon Redshift (Portuguese)</h2>
+Primeiramente, o curso abordou o design básico de tabelas, que é crucial para organizar os dados de maneira eficiente. Compreendi como criar esquemas de tabelas adequados para atender às necessidades específicas do meu projeto.
+
+Além disso, o curso explicou como armazenar dados de forma eficaz, destacando a importância da otimização do armazenamento para garantir um desempenho adequado do data warehouse.
+
+Uma das partes mais fascinantes do curso foi aprender sobre técnicas de ingestão de dados. Isso incluiu a compreensão de como importar e integrar diferentes fontes de dados no Amazon Redshift, garantindo que os dados estejam prontos para análise.
+
+
+<h2>• Serverless Analytics (Portuguese)</h2>
+Aprendi sobre a importância de lidar com os dados dos clientes, que podem vir de várias fontes e em diferentes formatos. O instrutor, destacou a necessidade de tomar decisões orientadas por dados e demonstrou como podemos sintetizar esses dados usando ferramentas poderosas, como AWS IoT Analytics, Amazon Cognito, AWS Lambda e Amazon SageMaker.
+
+
+<h2>• Why Analytics for Games (Portuguese)</h2>
+No curso, aprendi como usar análises para melhorar jogos, otimizar operações e embasar decisões financeiras e estratégicas. Explorei perguntas de negócios, fontes de dados e tipos de dados relevantes, além de discutir os componentes de um pipeline de análise. O curso abordou a importância das análises no setor de jogos, incluindo modelos free-to-play e os riscos de não coletar dados. Também aprendi sobre análises em tempo real e em lote, bem como serviços da AWS para análises.
