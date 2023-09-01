@@ -3,6 +3,7 @@
 <br><br>
 AWS Partner: Sales Accreditation (Business) (Portuguese).
 
+
 AWS Partner: Data Analytics on AWS (Business) (Portuguese).
 
 Introduction to Amazon Kinesis Streams.
