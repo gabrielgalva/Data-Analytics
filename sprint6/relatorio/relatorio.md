@@ -80,7 +80,6 @@ Aprendi como essas soluções podem ajudar as empresas a coletar, armazenar, pro
 
 
 <h2>• Introduction to Amazon Elastic MapReduce (EMR) (Portuguese)</h2>
-
 - Aprendi sobre o Amazon EMR, um serviço totalmente gerenciado que facilita a criação e o gerenciamento de clusters de Hadoop e Spark. Aprendi que o EMR pode ser usado para uma ampla gama de casos de uso, desde processamento de dados de log até machine learning.Fiquei surpreso com a variedade de ferramentas e recursos disponíveis, e achei a demonstração particularmente útil.
 
 
