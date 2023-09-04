@@ -72,7 +72,6 @@ Aprendi como essas soluções podem ajudar as empresas a coletar, armazenar, pro
 
 
 <h2>• Introduction to Amazon Kinesis Streams</h2>
-
 - Aprendi sobre o Amazon Kinesis Streams, um serviço sem servidor que facilita a captura, o processamento e o armazenamento de grandes quantidades de dados de streaming em tempo real, os componentes do Kinesis Streams incluem streams, shards e a Kinesis Data Streams API.E pude assistir a uma demonstração de como usar o Kinesis Streams para coletar, processar e analisar dados de streaming em tempo real.
 
 
