@@ -1,7 +1,7 @@
 <h1>- Sprint 7:</h1>
 - Durante a sétima sprint, dediquei-me aos cursos de Spark com Pyspark e Learn By Example: Hadoop, MapReduce for Big Data problems. Dos dias 04/09 até o dia 18/09, abaixo relatei o que explorei durante esses cursos. 
 
-<h2>• Spark com Pyspark</h2>
+<h2>•  Learn By Example: Hadoop, MapReduce for Big Data problems</h2>
 
 <h2>• Seção 1:Introduction</h2>
 - Uma breve introdução ao curso e ao que será abordado.
@@ -24,7 +24,7 @@ Instalação em Modo Pseudo-Distribuído do Hadoop: Essa opção simula um ambie
 - Comecei com um exemplo prático "Hello World" para entender como o MapReduce funciona na prática.Explorei a filosofia subjacente ao MapReduce, compreendendo sua abordagem simplificada para o processamento paralelo de dados.Visualizei o processo de MapReduce, desde o mapeamento até a redução, entendendo como os dados são processados em etapas.Aprofundei em cada estágio do processamento MapReduce, explorando os detalhes e a lógica por trás de cada passo.Entendi como o Reducer agrega e consolida os resultados intermediários gerados pelos Mappers.Por fim, explorei o conceito de "Job" no contexto do Hadoop e do MapReduce, entendendo como ele coordena as tarefas MapReduc
 
 
-<h2>• Learn By Example: Hadoop, MapReduce for Big Data problems</h2>
+<h2>• Spark com PySpark</h2>
 
 <h2>• Seção 1:Introdução</h2>
 -
