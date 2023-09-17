@@ -50,7 +50,7 @@ Instalação em Modo Pseudo-Distribuído do Hadoop: Essa opção simula um ambie
 
 
 <h2>• Seção 10:Outros Aspectos</h2>
-- Explorando tópicos avançados, usei o Spark com Notebooks Jupyter e converti dados do Pandas em DataFrames do Spark. Utilizei a interface do usuário do Spark para monitoramento e depuração e conheci as configurações e ajustes disponíveis na plataforma
+- Explorando tópicos avançados, usei o Spark com Notebooks Jupyter e converti dados do Pandas em DataFrames do Spark. Utilizei a interface do usuário do Spark para monitoramento e depuração e conheci as configurações e ajustes disponíveis na plataforma.
 
 
 
