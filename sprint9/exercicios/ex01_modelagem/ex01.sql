@@ -1,51 +1,67 @@
--- Tabela tb_cliente
-CREATE TABLE tb_cliente (
+CREATE TABLE Cliente (
     idCliente INT PRIMARY KEY,
-    nomeCliente VARCHAR(100),
-    cidadeCliente VARCHAR(40),
-    estadoCliente VARCHAR(40),
-    paisCliente VARCHAR(40)
+    nomeCliente VARCHAR(255),
+    cidadeCliente VARCHAR(255),
+    estadoCliente VARCHAR(255),
+    paisCliente VARCHAR(255)
 );
 
--- Tabela tb_carro
-CREATE TABLE tb_carro (
+INSERT INTO Cliente (idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente)
+SELECT DISTINCT idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente
+FROM tb_locacao;
+
+CREATE TABLE Carro (
     idCarro INT PRIMARY KEY,
     kmCarro INT,
-    chassiCarro VARCHAR(50),
-    marcaCarro VARCHAR(60),
-    modeloCarro VARCHAR(60),
+    classiCarro VARCHAR(50),
+    marcaCarro VARCHAR(255),
+    modeloCarro VARCHAR(255),
     anoCarro INT,
-    idCombustivel INT,
-    FOREIGN KEY (idCombustivel) REFERENCES tb_combustivel(idCombustivel)
+    idcombustivel INT,
+    FOREIGN KEY (idcombustivel) REFERENCES Combustivel(idcombustivel)
 );
 
--- Tabela tb_combustivel
-CREATE TABLE tb_combustivel (
-    idCombustivel INT PRIMARY KEY,
-    tipoCombustivel VARCHAR(20)
+INSERT OR IGNORE INTO Carro (idCarro, kmCarro, classiCarro, marcaCarro, modeloCarro, anoCarro, idcombustivel)
+SELECT DISTINCT idCarro, kmCarro, classiCarro, marcaCarro, modeloCarro, anoCarro, idcombustivel
+FROM tb_locacao;
+
+
+CREATE TABLE Combustivel (
+    idcombustivel INT PRIMARY KEY,
+    tipoCombustivel VARCHAR(50)
 );
 
--- Tabela tb_vendedor
-CREATE TABLE tb_vendedor (
+INSERT INTO Combustivel (idcombustivel, tipoCombustivel)
+SELECT DISTINCT idcombustivel, tipoCombustivel
+FROM tb_locacao;
+
+CREATE TABLE Vendedor (
     idVendedor INT PRIMARY KEY,
-    nomeVendedor VARCHAR(15),
-    sexoVendedor SMALLINT,
-    estadoVendedor VARCHAR(40)
+    nomeVendedor VARCHAR(255),
+    sexoVendedor VARCHAR(10),
+    estadoVendedor VARCHAR(255)
 );
 
--- Tabela tb_locacao
-CREATE TABLE tb_locacao (
+INSERT INTO Vendedor (idVendedor, nomeVendedor, sexoVendedor, estadoVendedor)
+SELECT DISTINCT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor
+FROM tb_locacao;
+
+CREATE TABLE Locacao (
     idLocacao INT PRIMARY KEY,
     idCliente INT,
     idCarro INT,
-    dataLocacao DATETIME,
+    idVendedor INT,
+    dataLocacao DATE,
     horaLocacao TIME,
     qtdDiaria INT,
-    vrDiaria DECIMAL(18,2),
+    vlrDiaria DECIMAL(10, 2),
     dataEntrega DATE,
     horaEntrega TIME,
-    idVendedor INT,
-    FOREIGN KEY (idCliente) REFERENCES tb_cliente(idCliente),
-    FOREIGN KEY (idCarro) REFERENCES tb_carro(idCarro),
-    FOREIGN KEY (idVendedor) REFERENCES tb_vendedor(idVendedor)
+    FOREIGN KEY (idCliente) REFERENCES Cliente(idCliente),
+    FOREIGN KEY (idCarro) REFERENCES Carro(idCarro),
+    FOREIGN KEY (idVendedor) REFERENCES Vendedor(idVendedor)
 );
+
+INSERT INTO Locacao (idLocacao, idCliente, idCarro, idVendedor, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega)
+SELECT idLocacao, idCliente, idCarro, idVendedor, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega
+FROM tb_locacao;
