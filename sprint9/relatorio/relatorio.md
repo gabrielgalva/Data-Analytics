@@ -2,6 +2,7 @@
 
 <h2>• Tarefa 1: Modelagem Relacional - Normalização</h2>
 Na Tarefa 1: Modelagem Relacional - Normalização:Primeiro, identifiquei as dependências funcionais entre os atributos.
+
 <h2>Criação de Tabelas:</h2>
 
 - No início do exercício, criei várias tabelas no banco de dados, cada uma com um nome específico, como "Cliente", "Carro", "Combustivel", "Vendedor" e "Locacao". Cada tabela foi projetada para armazenar informações relacionadas a um aspecto específico dos registros de locação.
