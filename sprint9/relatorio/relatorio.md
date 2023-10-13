@@ -23,3 +23,19 @@ Em seguida, criei a tabela de fatos chamada FatoLocacao. Esta tabela é o coraç
 
 Por fim, criei visualizações para facilitar o acesso aos dados. A visualização VwFatoLocacao combina informações da tabela FatoLocacao com detalhes das tabelas de dimensão DimCliente, DimCarro e DimVendedor. Isso permite uma consulta mais eficiente e compreensão de todas as informações relevantes em um só lugar. As visualizações VwDimCliente, VwDimCarroeVwDimVendedor` simplesmente fornecem representações diretas das tabelas de dimensão originais, tornando a consulta dos dados das dimensões uma tarefa mais simples.
 
+<h2>Desafio:</h2>
+
+<h3>Parte 3:</h3>
+
+Eu criei a camada Trusted no meu bucket, utilizei o Apache Spark para processar os dados da camada Raw Zone e os padronizei. Esses dados processados foram armazenados no Amazon S3, na pasta "trusted," em formato PARQUET.
+
+Fiz o processamento pelo AWS Glue, no AWS Glue, desenvolvi um job no Spark script editor, usando configurações pedidas.Após isso desenvolvi um codigo para converter os arquivos jsons da pasta RAW para PARQUET e mandar para pasta Trusted.
+
+
+<h3>Parte 4:</h3>
+Eu criei um Crawler no AWS Glue e o configurei para rastrear a pasta "trusted" que continha os arquivos no formato PARQUET. Em seguida, usei o Crawler para criar automaticamente uma tabela no AWS Glue Data Catalog. Essa tabela foi criada com base nos metadados dos arquivos PARQUET na pasta "trusted."
+
+
+
+
+<h3>Parte 5:</h3>
