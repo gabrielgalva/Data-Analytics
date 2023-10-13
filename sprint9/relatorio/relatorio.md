@@ -36,6 +36,10 @@ Fiz o processamento pelo AWS Glue, no AWS Glue, desenvolvi um job no Spark scrip
 Eu criei um Crawler no AWS Glue e o configurei para rastrear a pasta "trusted" que continha os arquivos no formato PARQUET. Em seguida, usei o Crawler para criar automaticamente uma tabela no AWS Glue Data Catalog. Essa tabela foi criada com base nos metadados dos arquivos PARQUET na pasta "trusted."
 
 
-
-
 <h3>Parte 5:</h3>
+Passo 1: Criação do Job
+- Inicialmente, criei um novo job.
+
+Passo 2: Seleção de Colunas e Armazenamento
+- Desenvolvi um código para selecionar as colunas de dados relevantes.
+- Enviei essas colunas para uma pasta que criei no meu bucket de armazenamento.
