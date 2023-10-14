@@ -41,5 +41,5 @@ Passo 1: Criação do Job
 - Inicialmente, criei um novo job.
 
 Passo 2: Seleção de Colunas e Armazenamento
-- Desenvolvi um código para selecionar as colunas de dados relevantes.
-- Enviei essas colunas para uma pasta que criei no meu bucket de armazenamento.
+- Desenvolvi um código para selecionar as colunas de dados relevantes e filtrar apenas os filmes que vou ultilizar.
+- Enviei esses filmes para uma pasta que criei no meu bucket de armazenamento.
