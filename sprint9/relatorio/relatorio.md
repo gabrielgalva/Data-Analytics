@@ -1,4 +1,5 @@
 <h1>- Sprint 9:</h1>
+-Na nona sprint, dediquei-me às atividades de Modelagem Relacional e Modelagem Dimensional, prosseguindo com ênfase no desafio em questão. Essa sprint se caracterizou pela variedade de tarefas, priorizando a execução de atividades específicas em vez de participação em cursos extensivos. No intervalo de tempo compreendido entre 02/10 e 16/10, a seguir, apresentarei um registro detalhado das minhas realizações em cada exercício.
 
 <h2>• Tarefa 1: Modelagem Relacional - Normalização</h2>
 Na Tarefa 1: Modelagem Relacional - Normalização:Primeiro, identifiquei as dependências funcionais entre os atributos.
